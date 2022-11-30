@@ -51,6 +51,7 @@
 - https://food.trueid.net/detail/b7dYz9vljYkG
 - https://gangtravel.com/23864
 - https://travel.trueid.net/detail/oGqQpmX4VxmG
+- https://travel.trueid.net/detail/MVWLKwmPR2An
 
 ## ร้านอาหาร
 
