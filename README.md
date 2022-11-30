@@ -2,10 +2,12 @@
 
 ## ไปท่าเรือ bali hai
 
-- มีรอบเรือ (8.00,9.00,11.00,13.00)
+- มีรอบเรือ (10.00)
 - ไปเรือ ferry 30 บาท
-- ไปลงหาดตาแหวน
-- 45 นาทีถึงหาดตาแหวน
+- ไปลงท่าเรือหน้าบ้าน
+- 45 นาทีถึงท่าเรือหน้าบ้าน
+- เช่ามอไซค์
+- เข้าที่พัก Sweet Box bed&breakfast (check-in 14.00)
 
 ## หาดตาแหวน (https://travel.trueid.net/detail/36nym3QAW2LM)
 
@@ -60,7 +62,7 @@
 - สุขเสมอ Camping & Bed Koh Larn (https://www.facebook.com/suksamer.kohlarn/)
 - บุฟเฟ่ต์ราชาปิ้งย่าง-Racha Buffet (https://www.facebook.com/%E0%B8%9A%E0%B8%B8%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B8%95%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-Racha-Buffet-100439742126451/)
 
-## ที่พัก
+## ที่พัก (ได้ Sweet Box bed&breakfast)
 
 - ธันดารา เกาะล้าน (https://travel.trueid.net/detail/DpPDwL7OZx6p?utm_source=web-trueid&utm_medium=ctw&utm_term=clicklink&utm_campaign=travel_oGqQpmX4VxmG_relatecontent_travel_DpPDwL7OZx6p_03/09/2021)
 - บ้านริมน้ำ เกาะล้าน (https://www.baanrimnamkohlarn.com/rooms)
