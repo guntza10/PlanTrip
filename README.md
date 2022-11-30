@@ -67,3 +67,4 @@
 - Wynn วิณณ์รีสอร์ท (https://www.facebook.com/Wynn-%E0%B8%A7%E0%B8%B4%E0%B8%93%E0%B8%93%E0%B9%8C%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97-111831813549634)
 - เผลอสุขใจ Cafe & Bed - Koh Larn (https://www.facebook.com/Plursukjai)
 - สุขเสมอ - Camping & Bed koh Larn (https://www.facebook.com/suksamer.kohlarn)
+- suntosa resort
