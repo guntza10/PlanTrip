@@ -1,52 +1,150 @@
 # Fukuoka (28/03/2566-03/04/2566)
 
-# Day 1
+# Essential
 
-# Location
+- Visit Japan Web
+- vaccine 3 doses
+- JR North Kyushu 5 days
+- prepaid card SUGOCA
 
-## Day 1
+# Day 1 (28 march 2023) (done)
 
-## Day 2
+## transport way
 
-## Day 3
+- free bus -> domestic terminal -> Jr -> Hakata Station
+- bus -> Hakata Station
+- Taxi -> Hakata Station
 
-## Day 4
+## itinerary
 
-## Day 5
+1. arrival Fukuoka 08.00
+2. airport -> Hakata Station
 
-## Day 6
+- exchange Jr pass [Hakata Station]
+- eat brunch ex. Ippudo ramen [Jr.Hakata 10 th floor]
 
-## Day 7
+3. Hakata Station -> hotel (keep baggage) [hakata mizuka business]
 
-### Highlight
+4. Canal City Mall
 
-- วัด
-- พระพุทธรูปมรกต
+- shopping and dinner
+- Izakaya
 
-### How do I go there?
+## Highlight
 
-- นั่งรถไฟจาก Hakata station -> Kidonanzoin-Mae Station (30 นาที)
-- ออกจากสถานีเดินต่อไปที่วัด (จะมีเจ้าหน้าที่แจกแผนที่)
+![Canal City Mall](/images/Kyushu/Canal-City-Hakata.jpg)
 
-## `2. Lalaport Fukuoka`
+# Day 2 (29 march 2023) (done)
 
-### Highlight
+## transport way
 
-- Gundam
+## itinerary
 
-### How do I go there?
+1. Hakata Station -> Kido Nanzoin-mae station
+2. Nanzoin Temple
+3. Tocho-ji Temple
+4. Shofuku-ji Temple
+5. Kushida Shrine
 
-- นั่งบัสจากซักที่ ?
+## Highlight
 
-# Note
+![](/images/Kyushu/nanzoin-temple.jpg)
+![](/images/Kyushu/Tochoji-Temple.jpg)
+![](/images/Kyushu/Shofuku-ji.jpg)
+![](/images/Kyushu/Kushida-Shrine.jpg)
 
-1. visit japan(รายละเอียดเอกสาร)
-2. พักแถว Hakata station (อยู่ใกล้ขนส่งสาธารณะเดินทางสะดวก?)
-3. นั่งรถไฟใต้ดินหรือบัสเพื่อเข้าเมือง
+# Day 3 (30 march 2023) (done)
 
-# Hotel
+## transport way
 
-- The B hakata
+## itinerary
+
+1. Hakata Station -> Yufuin (booking Yufuin no mori) [`*JR North Kyushu 5 days`]
+2. Yufuin Station -> Yufuin Floral Village
+3. Kirin Lake
+4. Yufuin Station -> Oita Station
+5. Check in hotel [Hotel Area One Oita]
+
+## Highlight
+
+![](/images/Kyushu/yufuin-1.jpg)
+![](/images/Kyushu/yufuin-2.jpg)
+![](/images/Kyushu/yufuin-3.jpg)
+
+# Day 4 (31 march 2023) (done)
+
+## transport way
+
+## itinerary
+
+1. Oita Station -> Kamegawa Station
+2. Kamegawa Station -> Chinoke Jigoku
+3. Umi Jigoku
+4. Beppu Ropeway
+5. Beppu Station -> Oita Station
+6. hotel [Hotel Area One Oita]
+
+## Highlight
+
+![](/images/Kyushu/Chinoke-Jigoku1.jpg)
+![](/images/Kyushu/Chinoke-Jigoku2.jpg)
+![](/images/Kyushu/umi-jigoku-1.jpg)
+![](/images/Kyushu/beppu-ropeway-1.jpg)
+
+# Day 5 (1 april 2023) (done)
+
+## transport way
+
+## itinerary
+
+1. Oita Station -> Aso Station
+2. Aso Station -> Kusazenri (bus)
+3. Mt.Aso Nakadake Crater (bus)
+4. Aso Station -> Kumamoto Station
+5. hotel [Mitsui Garden Hotel Kumamoto]
+
+## Highlight
+
+![](/images/Kyushu/Kusasenri1.jpg)
+![](/images/Kyushu/nakadake.jpg)
+
+## `extra`
+
+- Katsuretsutei Minamikumamoto
+
+# Day 6 (2 april 2023) (done)
+
+## transport way
+
+## itinerary
+
+1. Kumamoto Station -> Hakata Station
+2. Nokoshima Island
+
+## Highlight
+
+![](/images/Kyushu/nakoshima-island-1.jpg)
+![](/images/Kyushu/nakoshima-island-2.jpg)
+![](/images/Kyushu/nakoshima-island-3.jpg)
+![](/images/Kyushu/nakoshima-island-4.jpg)
+![](/images/Kyushu/nakoshima-island-5.jpg)
+
+# Day 7 (3 april 2023) (done)
+
+## transport way
+
+## itinerary
+
+1. hotel -> airport (arrive before 10.50)
+2. Fukuoka -> Suvarnabhumi
+
+# refs
+
+- https://kiji.life/travel/japan/kyushu/fukuoka/
+- https://www.hashcorner.com/travel/japan/yufuin-kyushu-%E0%B8%A2%E0%B8%B8%E0%B8%9F%E0%B8%B8%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%84%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B9/
+- https://pantip.com/topic/39289618
+- https://pantip.com/topic/41874293?sc=Y697zpE
+- https://pantip.com/topic/41878678?sc=FA1ONwJ
 
 # Draft trip Fukuoka
 
