@@ -103,6 +103,10 @@
 4. Aso Station -> Kumamoto Station
 5. hotel [Mitsui Garden Hotel Kumamoto]
 
+## Caution
+
+- โรคประจำตัว เช่น หอบหืด,ทางเดินหายใจ,โรคหัวใจ ไม่ควรขึ้นไป aso เพราะภูเขาไฟ aso ยังไม่ดับ จะมีการปล่อย gas พิษออกมา
+
 ## Highlight
 
 ![](/images/Kyushu/Kusasenri1.jpg)
