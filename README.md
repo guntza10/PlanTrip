@@ -7,7 +7,7 @@
 - JR North Kyushu 5 days
 - prepaid card SUGOCA
 
-# Day 1 (28 march 2023) (done)
+# Day 1 (28 march 2023)
 
 ## transport way
 
@@ -17,123 +17,55 @@
 
 ## itinerary
 
-1. arrival Fukuoka 08.00
-2. airport -> Hakata Station
-
-- exchange Jr pass [Hakata Station]
-- eat brunch ex. Ippudo ramen [Jr.Hakata 10 th floor]
-
-3. Hakata Station -> hotel (keep baggage) [hakata mizuka business]
-
-4. Canal City Mall
-
-- shopping and dinner
-- Izakaya
-
 ## Highlight
 
-![Canal City Mall](/images/Kyushu/Canal-City-Hakata.jpg)
-
-# Day 2 (29 march 2023) (done)
+# Day 2 (29 march 2023)
 
 ## transport way
 
 ## itinerary
 
-1. Hakata Station -> Kido Nanzoin-mae station
-2. Nanzoin Temple
-3. Tocho-ji Temple
-4. Shofuku-ji Temple
-5. Kushida Shrine
-
 ## Highlight
 
-![](/images/Kyushu/nanzoin-temple.jpg)
-![](/images/Kyushu/Tochoji-Temple.jpg)
-![](/images/Kyushu/Shofuku-ji.jpg)
-![](/images/Kyushu/Kushida-Shrine.jpg)
-
-# Day 3 (30 march 2023) (done)
+# Day 3 (30 march 2023)
 
 ## transport way
 
 ## itinerary
 
-1. Hakata Station -> Yufuin (booking Yufuin no mori) [`*JR North Kyushu 5 days`]
-2. Yufuin Station -> Yufuin Floral Village
-3. Kirin Lake
-4. Yufuin Station -> Oita Station
-5. Check in hotel [Hotel Area One Oita]
-
 ## Highlight
 
-![](/images/Kyushu/yufuin-1.jpg)
-![](/images/Kyushu/yufuin-2.jpg)
-![](/images/Kyushu/yufuin-3.jpg)
-
-# Day 4 (31 march 2023) (done)
+# Day 4 (31 march 2023)
 
 ## transport way
 
 ## itinerary
 
-1. Oita Station -> Kamegawa Station
-2. Kamegawa Station -> Chinoke Jigoku
-3. Umi Jigoku
-4. Beppu Ropeway
-5. Beppu Station -> Oita Station
-6. hotel [Hotel Area One Oita]
-
 ## Highlight
 
-![](/images/Kyushu/Chinoke-Jigoku1.jpg)
-![](/images/Kyushu/Chinoke-Jigoku2.jpg)
-![](/images/Kyushu/umi-jigoku-1.jpg)
-![](/images/Kyushu/beppu-ropeway-1.jpg)
-
-# Day 5 (1 april 2023) (done)
+# Day 5 (1 april 2023)
 
 ## transport way
 
 ## itinerary
-
-1. Oita Station -> Aso Station
-2. Aso Station -> Kusazenri (bus)
-3. Mt.Aso Nakadake Crater (bus)
-4. Aso Station -> Kumamoto Station
-5. hotel [Mitsui Garden Hotel Kumamoto]
 
 ## Caution
 
-- โรคประจำตัว เช่น หอบหืด,ทางเดินหายใจ,โรคหัวใจ ไม่ควรขึ้นไป aso เพราะภูเขาไฟ aso ยังไม่ดับ จะมีการปล่อย gas พิษออกมา
-
 ## Highlight
-
-![](/images/Kyushu/Kusasenri1.jpg)
-![](/images/Kyushu/nakadake.jpg)
 
 ## `extra`
 
 - Katsuretsutei Minamikumamoto
 
-# Day 6 (2 april 2023) (done)
+# Day 6 (2 april 2023)
 
 ## transport way
 
 ## itinerary
 
-1. Kumamoto Station -> Hakata Station
-2. Nokoshima Island
-
 ## Highlight
 
-![](/images/Kyushu/nakoshima-island-1.jpg)
-![](/images/Kyushu/nakoshima-island-2.jpg)
-![](/images/Kyushu/nakoshima-island-3.jpg)
-![](/images/Kyushu/nakoshima-island-4.jpg)
-![](/images/Kyushu/nakoshima-island-5.jpg)
-
-# Day 7 (3 april 2023) (done)
+# Day 7 (3 april 2023)
 
 ## transport way
 
@@ -193,105 +125,206 @@ I hope this itinerary helps you plan your trip to Fukuoka and that you have a gr
 
 ## Fukuoka City
 
-- Jr Hakata Station
-- Shofukuji-temple
-- Tochoji-temple
-- Kushida Shrine
-- Sumiyoshi
-- naka
-- Canal city
-- Tenjin
-- Arcos Fukuoka
-- Tenjin Central Park
-- Ohori Park
-- Fukuoka Castle
-- Fukuoka Tower
-- Momochi Seaside park
-- Nokonoshima Island
+- Jr Hakata Station(x)
+- Shofukuji-temple(x)
+- Tochoji-temple(x)
+- Kushida Shrine(x)
+- Sumiyoshi Shrine (x)
+- Nakasu (x)
+- Canal city (x)
+- ย่าน Tenjin (x)
+- Arcos Fukuoka (x)
+- Tenjin Central Park (x)
+- Ohori Park (x)
+- Fukuoka Castle (x)
+- Fukuoka Tower (x)
+- Momochi Seaside park(x)
+- Nokonoshima Island (x)
 
 ## Itoshima City
 
-- Samurai Futamigaura Beach
+- Samurai Futamigaura Beach (x)
 
 ## Sasaguri City
 
-- Nanzoin Temple
+- Nanzoin Temple (x)
 
 ## Dazaifu City
 
-- Dazaifu Tenmangu
-- Starbucks Dazaifu
+- Dazaifu Tenmangu (x)
+- Starbucks Dazaifu (x)
 
 ## Kitakyushu City
 
-- Kokura Castle
-- Natural History and human history museum kitakyushu
-- Old moji custome office
-- หอสมุดมิตรภาพ
-
-## Kurome City
-
-- Ishibashi Cultural Center
-- Central park
+- Kokura Castle (x)
+- Old moji custome office (x)
+- หอสมุดมิตรภาพ (x)
+- norfolk square(x)
 
 # Kumamoto Province
 
 ## Kumamoto City
 
-- Kumamoto Castle
-- Takahashi inari shrine
+- Kumamoto Castle (x)
+- Takahashi inari shrine (x)
 
 ## Aso City
 
-- ภูเขา Aso
-- Kusasenri
+- ภูเขา Aso(x)
+- Kusasenri(x)
 - Aso boy (jr)
 
 # Nagasaki Province
 
 ## Sasebo city
 
-- Huis ten Bosch
-
-# Saga Province
-
-## Saga City
-
-- Kiyomizu waterfall
-
-## Karatsu City
-
-- Karatsu Castle
-- Nijinomatsusubara
-
-## Kashima City
-
-- Yoroku shrine
+- Huis ten Bosch(x)
 
 # Oita Province
 
-## Oita City
-
-- Oita bank red brick hall
-- Heiwa shimin
-
 ## Beppu City
 
-- beppu jigoku
-- beppu garden
-- beppu ropeway
+- beppu jigoku(x)
+- beppu garden(x)
+- beppu ropeway(x)
 
 ## Yufuin City
 
-- Yufuin Main Street
-- Yufuin floral vilage
-- Kirin lake
+- Yufuin Main Street(x)
+- Yufuin floral vilage(x)
+- Kirin lake(x)
 
-# Kagoshima Province
+# Day 1 (28 march 2023)
 
-## Kagoshima City
+## transport way
 
-- ห้าง Yamakataya
-- สวน Senganen
+- free bus -> domestic terminal -> Jr -> Hakata Station
+- bus -> Hakata Station
+- Taxi -> Hakata Station
 
-## Sakurajima Island
+## itinerary
+
+1. arrival Fukuoka 08.00
+2. airport -> Hakata Station
+
+- exchange Jr pass [Hakata Station]
+- eat brunch ex. Ippudo ramen [Jr.Hakata 10 th floor]
+
+3. Hakata Station -> hotel (keep baggage) [hakata mizuka business]
+
+4. Canal City Mall
+
+- shopping and dinner
+- Izakaya
+
+## Highlight
+
+![Canal City Mall](/images/Kyushu/Canal-City-Hakata.jpg)
+
+# Day 2 (29 march 2023)
+
+## transport way
+
+## itinerary
+
+1. Hakata Station -> Kido Nanzoin-mae station
+2. Nanzoin Temple
+3. Tocho-ji Temple
+4. Shofuku-ji Temple
+5. Kushida Shrine
+
+## Highlight
+
+![](/images/Kyushu/nanzoin-temple.jpg)
+![](/images/Kyushu/Tochoji-Temple.jpg)
+![](/images/Kyushu/Shofuku-ji.jpg)
+![](/images/Kyushu/Kushida-Shrine.jpg)
+
+# Day 3 (30 march 2023)
+
+## transport way
+
+## itinerary
+
+1. Hakata Station -> Yufuin (booking Yufuin no mori) [`*JR North Kyushu 5 days`]
+2. Yufuin Station -> Yufuin Floral Village
+3. Kirin Lake
+4. Yufuin Station -> Oita Station
+5. Check in hotel [Hotel Area One Oita]
+
+## Highlight
+
+![](/images/Kyushu/yufuin-1.jpg)
+![](/images/Kyushu/yufuin-2.jpg)
+![](/images/Kyushu/yufuin-3.jpg)
+
+# Day 4 (31 march 2023)
+
+## transport way
+
+## itinerary
+
+1. Oita Station -> Kamegawa Station
+2. Kamegawa Station -> Chinoke Jigoku
+3. Umi Jigoku
+4. Beppu Ropeway
+5. Beppu Station -> Oita Station
+6. hotel [Hotel Area One Oita]
+
+## Highlight
+
+![](/images/Kyushu/Chinoke-Jigoku1.jpg)
+![](/images/Kyushu/Chinoke-Jigoku2.jpg)
+![](/images/Kyushu/umi-jigoku-1.jpg)
+![](/images/Kyushu/beppu-ropeway-1.jpg)
+
+# Day 5 (1 april 2023)
+
+## transport way
+
+## itinerary
+
+1. Oita Station -> Aso Station
+2. Aso Station -> Kusazenri (bus)
+3. Mt.Aso Nakadake Crater (bus)
+4. Aso Station -> Kumamoto Station
+5. hotel [Mitsui Garden Hotel Kumamoto]
+
+## Caution
+
+- โรคประจำตัว เช่น หอบหืด,ทางเดินหายใจ,โรคหัวใจ ไม่ควรขึ้นไป aso เพราะภูเขาไฟ aso ยังไม่ดับ จะมีการปล่อย gas พิษออกมา
+
+## Highlight
+
+![](/images/Kyushu/Kusasenri1.jpg)
+![](/images/Kyushu/nakadake.jpg)
+
+## `extra`
+
+- Katsuretsutei Minamikumamoto
+
+# Day 6 (2 april 2023)
+
+## transport way
+
+## itinerary
+
+1. Kumamoto Station -> Hakata Station
+2. Nokoshima Island
+
+## Highlight
+
+![](/images/Kyushu/nakoshima-island-1.jpg)
+![](/images/Kyushu/nakoshima-island-2.jpg)
+![](/images/Kyushu/nakoshima-island-3.jpg)
+![](/images/Kyushu/nakoshima-island-4.jpg)
+![](/images/Kyushu/nakoshima-island-5.jpg)
+
+# Day 7 (3 april 2023)
+
+## transport way
+
+## itinerary
+
+1. hotel -> airport (arrive before 10.50)
+2. Fukuoka -> Suvarnabhumi
