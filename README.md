@@ -189,73 +189,109 @@ As for special events or places to visit during your trip, Fukuoka is known for 
 
 I hope this itinerary helps you plan your trip to Fukuoka and that you have a great time exploring this fascinating city!
 
-## Day 1
+# Fukuoka Province
 
-- Fukuoka Tower (x)
-- Momochi Seaside Park(x)
+## Fukuoka City
 
-- Hakata
-- Nakasu Island
+- Jr Hakata Station
+- Shofukuji-temple
+- Tochoji-temple
 - Kushida Shrine
-
-- Canal City Hakata
-
-## Day 2
-
-- Fukuoka City Museum
-- Canal City Hakata
-
-- Fukuoka Art Museum
-- Fukuoka City Museum
+- Sumiyoshi
+- naka
+- Canal city
 - Tenjin
+- Arcos Fukuoka
+- Tenjin Central Park
 - Ohori Park
-
-- Ohori Park
-- Dazaifu Tenmangu
+- Fukuoka Castle
 - Fukuoka Tower
+- Momochi Seaside park
+- Nokonoshima Island
 
-## Day 3
+## Itoshima City
 
-- Tenjin
-- Ohori Park
+- Samurai Futamigaura Beach
 
-- Dazaifu
-- Dazaifu Tenmangu (shrine)
-- explore and stroll in the town and try some of the local food
-
-- Hakata
-- Tenjin
-- Kushida Shrine
-- Hakata Machiya Folk Museum
-- Fukuoka Art Museum and the Asian Art Museum
-
-## Day 4
+## Sasaguri City
 
 - Nanzoin Temple
-- Yanagawa Canal Boat Tour
 
-- Yanagawa Canal Boat Tour
-- Yanagawa Castle Ruins
-- Sagiyama Shrine
+## Dazaifu City
 
-- Yanagawa
-- Fukuoka
+- Dazaifu Tenmangu
+- Starbucks Dazaifu
 
-## Day 5
+## Kitakyushu City
 
-- Dazaifu
-- Kyushu National Museum
+- Kokura Castle
+- Natural History and human history museum kitakyushu
+- Old moji custome office
+- หอสมุดมิตรภาพ
 
-- Fukuoka Tower
-- Momochi Beach
-- Fukuoka City Museum
+## Kurome City
 
-- Nokonoshima Island
-- Nakasu
+- Ishibashi Cultural Center
+- Central park
 
-## Day 6
+# Kumamoto Province
 
-- Sumiyoshi Shrine
-- Departure
+## Kumamoto City
 
-- Nokonoshima Island
+- Kumamoto Castle
+- Takahashi inari shrine
+
+## Aso City
+
+- ภูเขา Aso
+- Kusasenri
+- Aso boy (jr)
+
+# Nagasaki Province
+
+## Sasebo city
+
+- Huis ten Bosch
+
+# Saga Province
+
+## Saga City
+
+- Kiyomizu waterfall
+
+## Karatsu City
+
+- Karatsu Castle
+- Nijinomatsusubara
+
+## Kashima City
+
+- Yoroku shrine
+
+# Oita Province
+
+## Oita City
+
+- Oita bank red brick hall
+- Heiwa shimin
+
+## Beppu City
+
+- beppu jigoku
+- beppu garden
+- beppu ropeway
+
+## Yufuin City
+
+- Yufuin Main Street
+- Yufuin floral vilage
+- Kirin lake
+
+# Kagoshima Province
+
+## Kagoshima City
+
+- ห้าง Yamakataya
+- สวน Senganen
+
+## Sakurajima Island
