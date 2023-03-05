@@ -145,6 +145,7 @@
 - https://pantip.com/topic/39289618
 - https://pantip.com/topic/41874293?sc=Y697zpE
 - https://pantip.com/topic/41878678?sc=FA1ONwJ
+- https://pantip.com/topic/41867493
 
 # Draft trip Fukuoka
 
