@@ -1,27 +1,27 @@
-# Kyushu (28/03/2566-03/04/2566)
+# `Kyushu (28/03/2566-03/04/2566)`
 
-# Essential
+# `Essential`
 
 - Visit Japan Web
 - vaccine 3 doses
 - JR North Kyushu 5 days
 - prepaid card SUGOCA
 
-# Day 1 (28 march 2023)
+# `Day 1 (28 march 2023)`
 
-## transport way
+## `transport way`
 
 - free bus -> domestic terminal -> Jr -> Hakata Station
 - bus -> Hakata Station
 - Taxi -> Hakata Station
 
-## itinerary (พักแถว Hakata Station)
+## `itinerary (พักแถว Hakata Station)`
 
-# Fukuoka Province
+## Fukuoka Province
 
-## Fukuoka City
+### Fukuoka City
 
-### 1
+### Group 1
 
 - Jr Hakata Station
 - Shofukuji-temple
@@ -30,36 +30,36 @@
 - Sumiyoshi Shrine
 - Canal city
 
-### 2
+### Group 2
 
 - Nakasu
 
-## Highlight
+## `Highlight`
 
-# Day 2 (29 march 2023)
+# `Day 2 (29 march 2023)`
 
-## transport way
+## `transport way`
 
-## itinerary (พักแถว Hakata Station)
+## `itinerary (พักแถว Hakata Station)`
 
-# Fukuoka Province
+## Fukuoka Province
 
-## Sasaguri City
+### Sasaguri City
 
 - Nanzoin Temple (Jr from hakata station 23 minutes)
 
-## Dazaifu City
+### Dazaifu City
 
 - Dazaifu Tenmangu (Jr from hakata station 49 minutes)
 - Starbucks Dazaifu
 
-## Highlight
+## `Highlight`
 
-# Day 3 (30 march 2023)
+# `Day 3 (30 march 2023)`
 
-## transport way
+## `transport way`
 
-## itinerary (พักแถว Oita Station)
+## `itinerary (พักแถว Oita Station)`
 
 ## Yufuin City
 
@@ -67,19 +67,19 @@
 - Yufuin floral vilage
 - Kirin lake
 
-## Highlight
+## `Highlight`
 
-# Day 4 (31 march 2023)
+# `Day 4 (31 march 2023)`
 
-## transport way
+## `transport way`
 
-## itinerary (พักแถว Oita Station)
+## `itinerary (พักแถว Oita Station)`
 
-# Oita Province
+## Oita Province
 
-## Beppu City
+### Beppu City
 
-### 1
+### Group 1
 
 - Umi Jigoku
 - Chinoke Jigoku
@@ -90,70 +90,68 @@
 - Kamado Jigoku
 - Yama Jigoku
 
-### 2
+### Group 2
 
 - beppu ropeway
 
-## Highlight
+## `Highlight`
 
-# Day 5 (1 april 2023)
+# `Day 5 (1 april 2023)`
 
-## transport way
+## `transport way`
 
-## itinerary (พักแถว Kumamoto Station)
+## `itinerary (พักแถว Kumamoto Station)`
 
-# Kumamoto Province
+## Kumamoto Province
 
-## Aso City
+### Aso City
 
 - Kusasenri
 - Mt.Aso Nakadake Crater
 
-## Caution
-
-## Highlight
+## `Highlight`
 
 ## `extra`
 
 - Katsuretsutei Minamikumamoto
 
-# Day 6 (2 april 2023)
+# `Day 6 (2 april 2023)`
 
-## transport way
+## `transport way`
 
-## itinerary (พักแถว Hakata Station)
+## `itinerary (พักแถว Hakata Station)`
 
-# Fukuoka Province
+## Fukuoka Province
 
-## Fukuoka City
+### Fukuoka City
 
-### 3
+### Group 3
 
 - ย่าน Tenjin
 - Arcos Fukuoka
 - Tenjin Central Park
 
-### 4
+### Group 4
 
 - Ohori Park
 - Fukuoka Castle
 
-### 5
+### Group 5
 
 - Fukuoka Tower
 - Momochi Seaside park
 
-### 6
+### Group 6
 
 - Nokonoshima Island
 
-## Highlight
+## `Highlight`
 
-# Day 7 (3 april 2023)
+# `Day 7 (3 april 2023)`
 
-## transport way
+## `transport way`
 
-## itinerary
+## `itinerary`
 
 1. hotel -> airport (arrive before 10.50)
 2. Fukuoka -> Suvarnabhumi
