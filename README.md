@@ -15,7 +15,24 @@
 - bus -> Hakata Station
 - Taxi -> Hakata Station
 
-## itinerary
+## itinerary (พักแถว Hakata Station)
+
+# Fukuoka Province
+
+## Fukuoka City
+
+### 1
+
+- Jr Hakata Station
+- Shofukuji-temple
+- Tochoji-temple
+- Kushida Shrine
+- Sumiyoshi Shrine
+- Canal city
+
+### 2
+
+- Nakasu
 
 ## Highlight
 
@@ -23,7 +40,18 @@
 
 ## transport way
 
-## itinerary
+## itinerary (พักแถว Hakata Station)
+
+# Fukuoka Province
+
+## Sasaguri City
+
+- Nanzoin Temple (Jr from hakata station 23 minutes)
+
+## Dazaifu City
+
+- Dazaifu Tenmangu (Jr from hakata station 49 minutes)
+- Starbucks Dazaifu
 
 ## Highlight
 
@@ -31,7 +59,13 @@
 
 ## transport way
 
-## itinerary
+## itinerary (พักแถว Oita Station)
+
+## Yufuin City
+
+- Yufuin Main Street
+- Yufuin floral vilage
+- Kirin lake
 
 ## Highlight
 
@@ -39,7 +73,26 @@
 
 ## transport way
 
-## itinerary
+## itinerary (พักแถว Oita Station)
+
+# Oita Province
+
+## Beppu City
+
+### 1
+
+- Umi Jigoku
+- Chinoke Jigoku
+- Tatsumaki Jigoku
+- Shiraike Jigoku
+- Oniishi Bozu Jigoku
+- Oniyama Jigoku
+- Kamado Jigoku
+- Yama Jigoku
+
+### 2
+
+- beppu ropeway
 
 ## Highlight
 
@@ -47,7 +100,14 @@
 
 ## transport way
 
-## itinerary
+## itinerary (พักแถว Kumamoto Station)
+
+# Kumamoto Province
+
+## Aso City
+
+- Kusasenri
+- Mt.Aso Nakadake Crater
 
 ## Caution
 
@@ -61,7 +121,31 @@
 
 ## transport way
 
-## itinerary
+## itinerary (พักแถว Hakata Station)
+
+# Fukuoka Province
+
+## Fukuoka City
+
+### 3
+
+- ย่าน Tenjin
+- Arcos Fukuoka
+- Tenjin Central Park
+
+### 4
+
+- Ohori Park
+- Fukuoka Castle
+
+### 5
+
+- Fukuoka Tower
+- Momochi Seaside park
+
+### 6
+
+- Nokonoshima Island
 
 ## Highlight
 
@@ -82,6 +166,7 @@
 - https://pantip.com/topic/41874293?sc=Y697zpE
 - https://pantip.com/topic/41878678?sc=FA1ONwJ
 - https://pantip.com/topic/41867493
+- https://kiji.life/8-hells-of-beppu/
 
 # Draft trip Fukuoka
 
@@ -121,78 +206,117 @@ As for special events or places to visit during your trip, Fukuoka is known for 
 
 I hope this itinerary helps you plan your trip to Fukuoka and that you have a great time exploring this fascinating city!
 
-# Fukuoka Province
+# Fukuoka Province (x)
 
-## Fukuoka City
+## Fukuoka City (x)
 
-- Jr Hakata Station(x)
-- Shofukuji-temple(x)
-- Tochoji-temple(x)
-- Kushida Shrine(x)
-- Sumiyoshi Shrine (x)
-- Nakasu (x)
-- Canal city (x)
-- ย่าน Tenjin (x)
-- Arcos Fukuoka (x)
-- Tenjin Central Park (x)
-- Ohori Park (x)
-- Fukuoka Castle (x)
-- Fukuoka Tower (x)
-- Momochi Seaside park(x)
-- Nokonoshima Island (x)
+### 1 (x)
+
+- Jr Hakata Station
+- Shofukuji-temple
+- Tochoji-temple
+- Kushida Shrine
+- Sumiyoshi Shrine
+- Canal city
+
+### 2 (x)
+
+- Nakasu
+
+### 3 (x)
+
+- ย่าน Tenjin
+- Arcos Fukuoka
+- Tenjin Central Park
+
+### 4 (x)
+
+- Ohori Park
+- Fukuoka Castle
+
+### 5 (x)
+
+- Fukuoka Tower
+- Momochi Seaside park
+
+### 6 (x)
+
+- Nokonoshima Island
 
 ## Itoshima City
 
-- Samurai Futamigaura Beach (x)
+- Samurai Futamigaura Beach (Jr from hakata station 1.08 hr)
 
-## Sasaguri City
+## Sasaguri City (x)
 
-- Nanzoin Temple (x)
+- Nanzoin Temple (Jr from hakata station 23 minutes) (x)
 
-## Dazaifu City
+## Dazaifu City (x)
 
-- Dazaifu Tenmangu (x)
+- Dazaifu Tenmangu (Jr from hakata station 49 minutes) (x)
 - Starbucks Dazaifu (x)
 
 ## Kitakyushu City
 
-- Kokura Castle (x)
-- Old moji custome office (x)
-- หอสมุดมิตรภาพ (x)
-- norfolk square(x)
+### 1
 
-# Kumamoto Province
+- Kokura Castle (Jr from hakata station 34 minutes)
+
+### 2 ห่างกับ Kokura Castle 34 นาที
+
+- Old moji custome office
+- หอสมุดมิตรภาพ
+- norfolk square
+
+# Kumamoto Province (x)
 
 ## Kumamoto City
 
-- Kumamoto Castle (x)
-- Takahashi inari shrine (x)
+### 1
 
-## Aso City
+- Kumamoto Castle (Jr from hakata station 1.17 hr)
 
-- ภูเขา Aso(x)
-- Kusasenri(x)
+### 2
+
+- Takahashi inari shrine
+
+## Aso City (x)
+
+- Kusasenri
+- Mt.Aso Nakadake Crater
+
 - Aso boy (jr)
 
 # Nagasaki Province
 
 ## Sasebo city
 
-- Huis ten Bosch(x)
+- Huis ten Bosch
 
-# Oita Province
+# Oita Province (x)
 
-## Beppu City
+## Beppu City (x)
 
-- beppu jigoku(x)
-- beppu garden(x)
-- beppu ropeway(x)
+### 1 (x)
 
-## Yufuin City
+- Umi Jigoku
+- Chinoke Jigoku
+- Tatsumaki Jigoku
+- Shiraike Jigoku
+- Oniishi Bozu Jigoku
+- Oniyama Jigoku
+- Kamado Jigoku
+- Yama Jigoku
 
-- Yufuin Main Street(x)
-- Yufuin floral vilage(x)
-- Kirin lake(x)
+### 2 (x)
+
+- beppu ropeway
+
+## Yufuin City (x)
+
+- Yufuin Main Street
+- Yufuin floral vilage
+- Kirin lake
 
 # Day 1 (28 march 2023)
 
@@ -328,3 +452,11 @@ I hope this itinerary helps you plan your trip to Fukuoka and that you have a gr
 
 1. hotel -> airport (arrive before 10.50)
 2. Fukuoka -> Suvarnabhumi
+
+# Hotel
+
+## พักแถว Hakata Station
+
+## พักแถว Oita Station
+
+## พักแถว Kumamoto Station
