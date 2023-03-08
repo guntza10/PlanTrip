@@ -17,11 +17,7 @@
 
 ## `itinerary (พักแถว Hakata Station)`
 
-## Fukuoka Province
-
-### Fukuoka City
-
-### Group 1
+### Group 1 (Fukuoka Province ,Fukuoka City)
 
 - Jr Hakata Station
 - Shofukuji-temple
@@ -30,7 +26,7 @@
 - Sumiyoshi Shrine
 - Canal city
 
-### Group 2
+### Group 2 (Fukuoka Province ,Fukuoka City)
 
 - Nakasu
 
@@ -42,13 +38,11 @@
 
 ## `itinerary (พักแถว Hakata Station)`
 
-## Fukuoka Province
-
-### Sasaguri City
+### Fukuoka Province, Sasaguri City
 
 - Nanzoin Temple (Jr from hakata station 23 minutes)
 
-### Dazaifu City
+### Fukuoka Province,Dazaifu City
 
 - Dazaifu Tenmangu (Jr from hakata station 49 minutes)
 - Starbucks Dazaifu
@@ -75,11 +69,7 @@
 
 ## `itinerary (พักแถว Oita Station)`
 
-## Oita Province
-
-### Beppu City
-
-### Group 1
+### Group 1 (Oita Province, Beppu City)
 
 - Umi Jigoku
 - Chinoke Jigoku
@@ -90,7 +80,7 @@
 - Kamado Jigoku
 - Yama Jigoku
 
-### Group 2
+### Group 2 (Oita Province, Beppu City)
 
 - beppu ropeway
 
@@ -102,9 +92,7 @@
 
 ## `itinerary (พักแถว Kumamoto Station)`
 
-## Kumamoto Province
-
-### Aso City
+### Kumamoto Province,Aso City
 
 - Kusasenri
 - Mt.Aso Nakadake Crater
@@ -121,27 +109,23 @@
 
 ## `itinerary (พักแถว Hakata Station)`
 
-## Fukuoka Province
-
-### Fukuoka City
-
-### Group 3
+### Group 3 (Fukuoka Province,Fukuoka City)
 
 - ย่าน Tenjin
 - Arcos Fukuoka
 - Tenjin Central Park
 
-### Group 4
+### Group 4 (Fukuoka Province,Fukuoka City)
 
 - Ohori Park
 - Fukuoka Castle
 
-### Group 5
+### Group 5 (Fukuoka Province,Fukuoka City)
 
 - Fukuoka Tower
 - Momochi Seaside park
 
-### Group 6
+### Group 6 (Fukuoka Province,Fukuoka City)
 
 - Nokonoshima Island
 
