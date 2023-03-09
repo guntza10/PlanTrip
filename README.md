@@ -149,6 +149,7 @@
 - https://pantip.com/topic/41878678?sc=FA1ONwJ
 - https://pantip.com/topic/41867493
 - https://kiji.life/8-hells-of-beppu/
+- https://kyushu.japan-tour.jp/?fbclid=IwAR1tCo9WedCSkqQ3S8mSGjiV36XU7R4kQFSyiNbAjiwXNLdSzXlR5KIARwQ
 
 # Draft trip Fukuoka
 
