@@ -15,7 +15,7 @@
 - bus -> Hakata Station
 - Taxi -> Hakata Station
 
-## `itinerary (พักแถว Hakata Station)`
+## `itinerary (stay around Hakata Station or Tenjin)`
 
 ### Group 1 (Fukuoka Province ,Fukuoka City)
 
@@ -23,12 +23,29 @@
 - Shofukuji-temple
 - Tochoji-temple
 - Kushida Shrine
-- Sumiyoshi Shrine
+- Sumiyoshi Shrine (optional)
 - Canal city
 
 ### Group 2 (Fukuoka Province ,Fukuoka City)
 
-- Nakasu
+- Tenjin
+- FUKUHAKU DEAI BRIDGE
+- TENJIN CHUO PARK – ARCOS
+- Tenjin Central Park
+
+### Group 3 (Fukuoka Province,Fukuoka City)
+
+- Ohori Park
+- Fukuoka Castle
+
+### Group 4 (Fukuoka Province,Fukuoka City)
+
+- Fukuoka Tower
+- Momochi Seaside park
+
+### Group 5 (Fukuoka Province ,Fukuoka City)
+
+- Nakasu Island (famous yatai)
 
 ## `Highlight`
 
@@ -36,16 +53,24 @@
 
 ## `transport way`
 
-## `itinerary (พักแถว Hakata Station)`
+## `itinerary (stay around Hakata Station or Tenjin)`
 
-### Fukuoka Province, Sasaguri City
+### Group 1 (Fukuoka Province, Sasaguri City)
 
 - Nanzoin Temple (Jr from hakata station 23 minutes)
 
-### Fukuoka Province,Dazaifu City
+### Group 2 (Fukuoka Province,Dazaifu City)
 
 - Dazaifu Tenmangu (Jr from hakata station 49 minutes)
 - Starbucks Dazaifu
+
+### Group 3 (Fukuoka Province,Fukuoka City)
+
+- UMINONAKAMICH SEASIDE PARK
+
+### Group 4 (Fukuoka Province,Fukuoka City)
+
+- Lala port mall
 
 ## `Highlight`
 
@@ -53,13 +78,28 @@
 
 ## `transport way`
 
-## `itinerary (พักแถว Oita Station)`
+## `itinerary (stay around Oita Station)`
 
-## Yufuin City
+## Group 1(Oita Province,Yufuin City)
 
 - Yufuin Main Street
 - Yufuin floral vilage
 - Kirin lake
+
+## Group 2(Oita Province,Oita City)
+
+- OITAKAWA RIVER
+
+## Group 3(Oita Province,Oita City)
+
+- OITA RED BRICK HALL
+- TOKIWA DEPARTMENT STORE
+- CENPORTA STREET
+- RUIN OF FUNAI CASTLE
+
+## Group 4(Oita Province,Oita City)
+
+- HEIWA CITIZEN PARK
 
 ## `Highlight`
 
@@ -67,9 +107,14 @@
 
 ## `transport way`
 
-## `itinerary (พักแถว Oita Station)`
+## `itinerary (stay around Oita Station or Aso Station)`
 
 ### Group 1 (Oita Province, Beppu City)
+
+- Beppu park
+- Global tower
+
+### Group 2 (Oita Province, Beppu City)
 
 - Umi Jigoku
 - Chinoke Jigoku
@@ -80,7 +125,7 @@
 - Kamado Jigoku
 - Yama Jigoku
 
-### Group 2 (Oita Province, Beppu City)
+### Group 3 (Oita Province, Beppu City)
 
 - beppu ropeway
 
@@ -90,12 +135,31 @@
 
 ## `transport way`
 
-## `itinerary (พักแถว Kumamoto Station)`
+## `itinerary (stay around Kumamoto Station)`
 
-### Kumamoto Province,Aso City
+### Group 1 (Kumamoto Province,Aso City)
 
 - Kusasenri
-- Mt.Aso Nakadake Crater
+- Mt.Aso
+- Mt.Komezuka
+- Mt.Kijimadake
+- Aso-san ropeway
+
+### Group 2 (Kumamoto Province,Kumamoto City)
+
+- KUMAMOTO CASTLE
+- SAKURA-NO-BABA STREET
+- KEMMOTSUDAI BOTANIC GARDEN
+
+### Group 3 (Kumamoto Province,Kumamoto City)
+
+- KAMITORI SHOPPING STREET
+- SHIMOTORI SHOPPING STREET
+- SUN ROAD SHOPPING STREET
+
+### Group 4 (Kumamoto Province,Kumamoto City)
+
+- KUMAMOTO ZOO & BOTANIC GARDEN
 
 ## `Highlight`
 
@@ -107,23 +171,7 @@
 
 ## `transport way`
 
-## `itinerary (พักแถว Hakata Station)`
-
-### Group 3 (Fukuoka Province,Fukuoka City)
-
-- ย่าน Tenjin
-- Arcos Fukuoka
-- Tenjin Central Park
-
-### Group 4 (Fukuoka Province,Fukuoka City)
-
-- Ohori Park
-- Fukuoka Castle
-
-### Group 5 (Fukuoka Province,Fukuoka City)
-
-- Fukuoka Tower
-- Momochi Seaside park
+## `itinerary (stay around Hakata Station)`
 
 ### Group 6 (Fukuoka Province,Fukuoka City)
 
