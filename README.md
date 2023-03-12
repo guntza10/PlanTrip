@@ -15,7 +15,7 @@
 - bus -> Hakata Station
 - Taxi -> Hakata Station
 
-## `itinerary (stay around Hakata Station or Tenjin)`
+## `itinerary (stay around Hakata Station)`
 
 ### Group 1 (Fukuoka Province ,Fukuoka City)
 
@@ -53,7 +53,7 @@
 
 ## `transport way`
 
-## `itinerary (stay around Hakata Station or Tenjin)`
+## `itinerary (stay around Hakata Station)`
 
 ### Group 1 (Fukuoka Province, Sasaguri City)
 
@@ -107,7 +107,7 @@
 
 ## `transport way`
 
-## `itinerary (stay around Oita Station or Aso Station)`
+## `itinerary (stay around Aso Station)`
 
 ### Group 1 (Oita Province, Beppu City)
 
@@ -135,7 +135,7 @@
 
 ## `transport way`
 
-## `itinerary (stay around Kumamoto Station)`
+## `itinerary (stay around Hakata Station)`
 
 ### Group 1 (Kumamoto Province,Aso City)
 
