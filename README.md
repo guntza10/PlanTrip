@@ -188,6 +188,18 @@
 1. hotel -> airport (arrive before 10.50)
 2. Fukuoka -> Suvarnabhumi
 
+# Hotel
+
+## stay around Hakata Station
+
+### ZONK Hakata (28-30 mar)
+
+### FFFFFF Hotel (1-3 apr)
+
+## stay around Oita Station
+
+### Green Rich Hotel Oita Miyakomachi (30 mar-1 apr)
+
 # refs
 
 - https://kiji.life/travel/japan/kyushu/fukuoka/
