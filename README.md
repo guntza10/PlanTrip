@@ -66,6 +66,7 @@
 - Fujiya Daimyo(Yakinuku,beer)
 - Fukuoka Hakata Yatai (Yatai mura)
 - Island eye
+- Isomaru Suisan
 
 - Nagasaki Champon
 
@@ -93,6 +94,10 @@
 ### Group 4 (Fukuoka Province,Fukuoka City)
 
 - Lala port mall
+
+## `recommended foods & cafe`
+
+- Umegae Mochi(Dazaifu Tenmangu,Yasutake)
 
 ## `Highlight`
 
