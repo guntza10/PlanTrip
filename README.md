@@ -47,6 +47,19 @@
 
 - Nakasu Island (famous yatai)
 
+## `recommended foods & cafe`
+
+- Motsunabe (Maedaya restaurant)
+- Hakata ramen (Ikkosha)
+- Mentaiko
+- Ono no Hanare
+- Fujiken
+- Daimyohaete
+- Matsusuke
+- Gyudon(Yoshinoya,Sukiya)
+- Yakitori (Torikizoku)
+- Yakiniku (Gyukaku)
+
 ## `Highlight`
 
 # `Day 2 (29 march 2023)`
@@ -128,6 +141,12 @@
 ### Group 3 (Oita Province, Beppu City)
 
 - beppu ropeway
+
+## `recommended foods & cafe`
+
+- Oshokujidokoro to yo tsune Beppu honten(お食事処 とよ常 別府本店)
+- Cafe Princess Kitties(カフェ プリンセスキティーズ)
+- Japanese style shop & cafe Wakura(和 style shop＆cafe 和蔵)
 
 ## `Highlight`
 
