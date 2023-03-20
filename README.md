@@ -23,15 +23,18 @@
 - Shofukuji-temple
 - Tochoji-temple
 - Kushida Shrine
-- Sumiyoshi Shrine (optional)
 - Canal city
+- Sumiyoshi Shrine (optional)
+- Ichiran Ramen[res]
 
 ### Group 2 (Fukuoka Province ,Fukuoka City)
 
 - Tenjin
+- Daimyo(centre of cafe)
 - FUKUHAKU DEAI BRIDGE
 - TENJIN CHUO PARK – ARCOS
 - Tenjin Central Park
+- Cross life hakata tenjin (Boss E-zo Fukuoka) => Teamlab
 
 ### Group 3 (Fukuoka Province,Fukuoka City)
 
@@ -49,8 +52,8 @@
 
 ## `recommended foods & cafe`
 
-- Motsunabe (Maedaya restaurant)
-- Hakata ramen (Ikkosha)
+- Motsunabe (Maedaya restaurant,Hakata Hanamidori)
+- Hakata ramen (Ikkosha,Ichiran Ramen)
 - Mentaiko
 - Ono no Hanare
 - Fujiken
@@ -59,6 +62,12 @@
 - Gyudon(Yoshinoya,Sukiya)
 - Yakitori (Torikizoku)
 - Yakiniku (Gyukaku)
+- Daimyo softcream
+- Fujiya Daimyo(Yakinuku,beer)
+- Fukuoka Hakata Yatai (Yatai mura)
+- Island eye
+
+- Nagasaki Champon
 
 ## `Highlight`
 
@@ -114,6 +123,10 @@
 
 - HEIWA CITIZEN PARK
 
+## `recommended foods & cafe`
+
+- Kagura(Yufuin)
+
 ## `Highlight`
 
 # `Day 4 (31 march 2023)`
@@ -144,6 +157,7 @@
 
 ## `recommended foods & cafe`
 
+- Hal: Hokkaido dinning hal(Izakaya)
 - Oshokujidokoro to yo tsune Beppu honten(お食事処 とよ常 別府本店)
 - Cafe Princess Kitties(カフェ プリンセスキティーズ)
 - Japanese style shop & cafe Wakura(和 style shop＆cafe 和蔵)
