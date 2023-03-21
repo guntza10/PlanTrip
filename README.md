@@ -162,6 +162,7 @@
 
 ## `recommended foods & cafe`
 
+- Okamotoya light meal restaurant
 - Hal: Hokkaido dinning hal(Izakaya)
 - Oshokujidokoro to yo tsune Beppu honten(お食事処 とよ常 別府本店)
 - Cafe Princess Kitties(カフェ プリンセスキティーズ)
