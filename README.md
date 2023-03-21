@@ -52,7 +52,7 @@
 
 ## `recommended foods & cafe`
 
-- Motsunabe (Maedaya restaurant,Hakata Hanamidori)
+- Motsunabe (Maedaya restaurant,Hakata Hanamidori,Motsu-nabe OYAMA KITTE Hakata)
 - Hakata ramen (Ikkosha,Ichiran Ramen)
 - Mentaiko
 - Ono no Hanare
