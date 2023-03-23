@@ -18,7 +18,7 @@
    - เอากระเป๋าไปฝากที่ Lobby
 4. SHOFUKUJI TEMPLE,TOCHOJI TEMPLE,KUSHIDA SHRINE
    - Jr Hakata Station -> Gion Station
-5. TENJIN CHUO PARK,ตึก ARCOS FUKUOKA
+5. TENJIN CHUO PARK,TENJIN CHUO PARK – ARCOS
    - Gion Station -> Nakasukawabata Station
 6. กินข้าวเที่ยง แถว Tenjin
    - Ichiran ramen สาขา Tenjin
@@ -39,41 +39,6 @@
 10. ZONK Hakata
     - Gion Station -> Hakata Station
 
-## `attractions`
-
-### Group 1 (Fukuoka Province ,Fukuoka City)
-
-- Jr Hakata Station
-- Shofukuji-temple
-- Tochoji-temple
-- Kushida Shrine
-- Canal city
-- Sumiyoshi Shrine (optional)
-- Ichiran Ramen[res]
-
-### Group 2 (Fukuoka Province ,Fukuoka City)
-
-- Tenjin
-- Daimyo(centre of cafe)
-- FUKUHAKU DEAI BRIDGE
-- TENJIN CHUO PARK – ARCOS
-- Tenjin Central Park
-- Cross life hakata tenjin (Boss E-zo Fukuoka) => Teamlab
-
-### Group 3 (Fukuoka Province,Fukuoka City)
-
-- Ohori Park
-- Fukuoka Castle
-
-### Group 4 (Fukuoka Province,Fukuoka City)
-
-- Fukuoka Tower
-- Momochi Seaside park
-
-### Group 5 (Fukuoka Province ,Fukuoka City)
-
-- Nakasu Island (famous yatai)
-
 ## `recommended foods & cafe`
 
 - Motsunabe (Maedaya restaurant,Hakata Hanamidori,Motsu-nabe OYAMA KITTE Hakata)
@@ -91,31 +56,36 @@
 - Fukuoka Hakata Yatai (Yatai mura)
 - Island eye
 - Isomaru Suisan
-
 - Nagasaki Champon
 
 # `Day 2 (29 march 2023)`
 
 ## `itinerary (stay around Hakata Station)`
 
-## `attractions`
-
-### Group 1 (Fukuoka Province, Sasaguri City)
-
-- Nanzoin Temple (Jr from hakata station 23 minutes)
-
-### Group 2 (Fukuoka Province,Dazaifu City)
-
-- Dazaifu Tenmangu (Jr from hakata station 49 minutes)
-- Starbucks Dazaifu
-
-### Group 3 (Fukuoka Province,Fukuoka City)
-
-- UMINONAKAMICH SEASIDE PARK
-
-### Group 4 (Fukuoka Province,Fukuoka City)
-
-- Lala port mall
+1. Nanzoin Temple
+   - Hakata Station -> Kidonanzoin-Mae Station
+   - เดินเที่ยวชมวัด
+2. กินข้าวเที่ยง
+   - หาร้านเพิ่มเติม `****`
+3. Dazaifu Tenmangu,Starbucks Dazaifu,Kamado Shrine(?)
+   - Kidonanzoin-Mae Station -> Hakata Station
+   - Hakata Station -> Tenjin Station
+   - เดินเปลี่ยนสายที่ Nishitetsu Fukuoka (Tenjin) Station
+   - Nishitetsu Fukuoka (Tenjin) Station -> Nishitetsu-Futsukaichi Station
+   - Nishitetsu-Futsukaichi Station -> Dazaifu Station
+   - เดิน Dazaifu Tenmangu
+4. Tenjin Station
+   - Dazaifu Station -> Nishitetsu-Futsukaichi Station
+   - Nishitetsu-Futsukaichi Station -> Nishitetsu Fukuoka (Tenjin) Station
+   - เดินกลับมาที่ Tenjin Station
+   - Fukuoka Tower,Momochi Seaside park (?)
+   - Nakasu Island (famous yatai) (?)
+   - Lala port mall(?)
+5. กินข้าวเย็น
+   - Nakasu (Famous Yatai) (?)
+   - Yakiniku & Beer (?)
+   - Izakaya
+6. ZONK Hakata
 
 ## `recommended foods & cafe`
 
@@ -125,28 +95,23 @@
 
 ## `itinerary (stay around Oita Station)`
 
-## `attractions`
+1. Yufuin Main Street,Yufuin floral vilage,Kirin lake (Yufuin no Mori 9:17-11:31)
+   - Hakata Station -> Yufuin Station
+   - ฝากกระเป๋าไว้ที่ locker สถานี
+   - กินข้าวเที่ยง
+   - เดินเที่ยว
+2. Oita Station
 
-### Group 1(Oita Province,Yufuin City)
+   - Yufuin Station -> Oita Station
 
-- Yufuin Main Street
-- Yufuin floral vilage
-- Kirin lake
-
-### Group 2(Oita Province,Oita City)
-
-- OITAKAWA RIVER
-
-### Group 3(Oita Province,Oita City)
-
-- OITA RED BRICK HALL
-- TOKIWA DEPARTMENT STORE
-- CENPORTA STREET
-- RUIN OF FUNAI CASTLE
-
-### Group 4(Oita Province,Oita City)
-
-- HEIWA CITIZEN PARK
+3. Green Rich Hotel Oita Miyakomachi
+   - check in
+4. หาข้าวกิน
+   - ถนนชอปปิ้ง Cenporta
+   - Yakiniku & Beer (?)
+   - Izakaya
+   - หาร้านเพิ่มเติม `****`
+5. กลับโรงแรม
 
 ## `recommended foods & cafe`
 
@@ -156,27 +121,37 @@
 
 ## `itinerary (stay around Oita Station)`
 
-## `attractions`
-
-### Group 1 (Oita Province, Beppu City)
-
-- Beppu park
-- Global tower
-
-### Group 2 (Oita Province, Beppu City)
-
-- Umi Jigoku
-- Chinoke Jigoku
-- Tatsumaki Jigoku
-- Shiraike Jigoku
-- Oniishi Bozu Jigoku
-- Oniyama Jigoku
-- Kamado Jigoku
-- Yama Jigoku
-
-### Group 3 (Oita Province, Beppu City)
-
-- beppu ropeway
+1. Beppu City
+   - Oita Station -> Beppu Station
+2. 8 บ่อนรก Beppu
+   - ซื้อตั๋ว My Beppu Free Pass (ตั๋วรถบัสแบบ 1 วัน) [900 เยน]
+   - ซื้อบัตรเข้าชม 7 บ่อ แบบเหมา
+3. Shibaseki Zone
+   - นั่งบัสจาก Beppu East (สาย5,41)
+   - Tatsumaki Jigoku
+   - Chinoike Jigoku
+4. Kannawa Zone
+   - นั่งบัสจาก Shibaseki Zone -> Kanawa Zone (สาย16)
+   - Shiraike Jigoku
+   - Oniyama Jigoku
+   - Kamado Jigoku
+   - Umi Jigoku
+   - Oniishibozu Jigoku
+   - Oniishibozu Jigoku
+5. กินข้าวเที่ยง
+   - Toyotsune
+   - หาร้านเพิ่ม `****`
+6. BEPPU ROPEWAY
+   - นั่งบัสจาก Beppu Station
+7. Beppu park,Global tower
+   - นั่งบัสกลับมาที่ Beppu Station
+   - กินข้าวเย็น
+   - Sakanaya Dojo
+   - หาร้านอื่นเพิ่มเติม `****`
+8. Oita Station
+   - Beppu Station -> Oita Station
+   - Izakaya (?)
+9. กลับโรงแรม Green Rich Hotel Oita Miyakomachi
 
 ## `recommended foods & cafe`
 
@@ -190,45 +165,31 @@
 
 ## `itinerary (stay around Hakata Station)`
 
-## `attractions`
+1. เดินทางกลับไปที่ Fukuoka
+   - Oita Station -> Hakata Station
+   - เอากระเป๋าไปฝากที่โรงแรม FFFFFF Hotel
+2. กินข้าวเที่ยง
+3. หาที่เที่ยวใน Fukuoka
+4. หาข้าวเย็นกิน
+   - Nakasu (Famous Yatai) (?)
+   - Yakiniku & Beer (?)
+   - Izakaya
+   - หาร้านเพิ่ม `****`
 
-### Group 1 (Kumamoto Province,Aso City)
-
-- Kusasenri
-- Mt.Aso
-- Mt.Komezuka
-- Mt.Kijimadake
-- Aso-san ropeway
-
-### Group 2 (Kumamoto Province,Kumamoto City)
-
-- KUMAMOTO CASTLE
-- SAKURA-NO-BABA STREET
-- KEMMOTSUDAI BOTANIC GARDEN
-
-### Group 3 (Kumamoto Province,Kumamoto City)
-
-- KAMITORI SHOPPING STREET
-- SHIMOTORI SHOPPING STREET
-- SUN ROAD SHOPPING STREET
-
-### Group 4 (Kumamoto Province,Kumamoto City)
-
-- KUMAMOTO ZOO & BOTANIC GARDEN
-
-### `extra`
-
-- Katsuretsutei Minamikumamoto
+## `recommended foods & cafe`
 
 # `Day 6 (2 april 2023)`
 
 ## `itinerary (stay around Hakata Station)`
 
-## `attractions`
+1. Nokonoshima Island
+2. หาข้าวเย็นกิน
+   - Nakasu (Famous Yatai) (?)
+   - Yakiniku & Beer (?)
+   - Izakaya
+   - หาร้านเพิ่ม `****`
 
-### Group 6 (Fukuoka Province,Fukuoka City)
-
-- Nokonoshima Island
+## `recommended foods & cafe`
 
 # `Day 7 (3 april 2023)`
 
@@ -259,6 +220,7 @@
 - https://pantip.com/topic/41867493
 - https://kiji.life/8-hells-of-beppu/
 - https://kyushu.japan-tour.jp/?fbclid=IwAR1tCo9WedCSkqQ3S8mSGjiV36XU7R4kQFSyiNbAjiwXNLdSzXlR5KIARwQ
+- https://www.emagtravel.com/archive/beppu-trip.html
 
 # `Attractions`
 
@@ -277,13 +239,16 @@
 
 #### Group 2
 
-- Nakasu
+- Nakasu Island (famous yatai)
 
 #### Group 3
 
-- ย่าน Tenjin
-- Arcos Fukuoka
+- Tenjin
+- Daimyo(centre of cafe)
+- FUKUHAKU DEAI BRIDGE
+- TENJIN CHUO PARK – ARCOS
 - Tenjin Central Park
+- Cross life hakata tenjin (Boss E-zo Fukuoka) => Teamlab
 
 #### Group 4
 
@@ -298,6 +263,14 @@
 #### Group 6
 
 - Nokonoshima Island
+
+#### Group 7
+
+- Lala port mall
+
+#### Group 8
+
+- UMINONAKAMICH SEASIDE PARK
 
 ### `Itoshima City`
 
@@ -367,11 +340,33 @@
 
 - beppu ropeway
 
+#### Group 3
+
+- Beppu park
+- Global tower
+
 ### `Yufuin City`
 
 - Yufuin Main Street
 - Yufuin floral vilage
 - Kirin lake
+
+### `Oita City`
+
+#### Group 1
+
+- OITAKAWA RIVER
+
+#### Group 2
+
+- OITA RED BRICK HALL
+- TOKIWA DEPARTMENT STORE
+- CENPORTA STREET
+- RUIN OF FUNAI CASTLE
+
+#### Group 3
+
+- HEIWA CITIZEN PARK
 
 # `Hotel`
 
