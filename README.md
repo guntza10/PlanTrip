@@ -202,13 +202,13 @@
 
 ## `stay around Hakata Station`
 
-### ZONK Hakata (28-30 mar)
+### ZONK Hakata (28-30 mar) [check-in after 15.00,check-out before 11.00]
 
-### FFFFFF Hotel (1-3 apr)
+### FFFFFF Hotel (1-3 apr) [check-in after 16.00,check-out before 10.00]
 
 ## `stay around Oita Station`
 
-### Green Rich Hotel Oita Miyakomachi (30 mar-1 apr)
+### Green Rich Hotel Oita Miyakomachi (30 mar-1 apr) [check-in after 15.00,check-out before 11.00]
 
 # `refs`
 
