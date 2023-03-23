@@ -8,12 +8,6 @@
 
 # `Day 1 (28 march 2023)`
 
-## `transport way`
-
-- free bus -> domestic terminal -> Jr -> Hakata Station
-- bus -> Hakata Station
-- Taxi -> Hakata Station
-
 ## `itinerary (stay around Hakata Station)`
 
 1. Fukuoka Airport
@@ -102,8 +96,6 @@
 
 # `Day 2 (29 march 2023)`
 
-## `transport way`
-
 ## `itinerary (stay around Hakata Station)`
 
 ## `attractions`
@@ -130,8 +122,6 @@
 - Umegae Mochi(Dazaifu Tenmangu,Yasutake)
 
 # `Day 3 (30 march 2023)`
-
-## `transport way`
 
 ## `itinerary (stay around Oita Station)`
 
@@ -163,8 +153,6 @@
 - Kagura(Yufuin)
 
 # `Day 4 (31 march 2023)`
-
-## `transport way`
 
 ## `itinerary (stay around Oita Station)`
 
@@ -200,8 +188,6 @@
 
 # `Day 5 (1 april 2023)`
 
-## `transport way`
-
 ## `itinerary (stay around Hakata Station)`
 
 ## `attractions`
@@ -236,8 +222,6 @@
 
 # `Day 6 (2 april 2023)`
 
-## `transport way`
-
 ## `itinerary (stay around Hakata Station)`
 
 ## `attractions`
@@ -247,8 +231,6 @@
 - Nokonoshima Island
 
 # `Day 7 (3 april 2023)`
-
-## `transport way`
 
 ## `itinerary`
 
