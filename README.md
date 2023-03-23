@@ -2,10 +2,9 @@
 
 # `Essential`
 
-- Visit Japan Web
-- vaccine 3 doses
+- Visit Japan Web (`clear`)
 - JR North Kyushu 5 days
-- prepaid card SUGOCA
+- SUGOCA card
 
 # `Day 1 (28 march 2023)`
 
@@ -16,6 +15,37 @@
 - Taxi -> Hakata Station
 
 ## `itinerary (stay around Hakata Station)`
+
+1. Fukuoka Airport
+2. JR Hakata Station
+   - free bus (Fukuoka Airport) -> domestic terminal
+   - domestic terminal -> JR Hakata Station
+3. ZONK Hakata
+   - เอากระเป๋าไปฝากที่ Lobby
+4. SHOFUKUJI TEMPLE,TOCHOJI TEMPLE,KUSHIDA SHRINE
+   - Jr Hakata Station -> Gion Station
+5. TENJIN CHUO PARK,ตึก ARCOS FUKUOKA
+   - Gion Station -> Nakasukawabata Station
+6. กินข้าวเที่ยง แถว Tenjin
+   - Ichiran ramen สาขา Tenjin
+   - Nikuzen
+   - หาร้านเพิ่มเผื่อไว้ `****`
+7. Ohori park,Fukuoka castle ruins
+   - Tenjin Station -> Akasaka Station
+8. Boss E-zo Fukuoka
+   - Akasaka Station -> Tojinmachi Station
+   - Momochi Seaside Park(?),Fukuoka tower(?)
+9. Canal city
+   - Nishijin Station (Momochi Seaside Park(?),Fukuoka tower(?)) -> Gion Station
+   - Tojinmachi Station (Boss E-zo Fukuoka) -> Gion Station
+   - shopping & dinner
+   - Nakasu (Famous Yatai) (?)
+   - Yakiniku & Beer (?)
+   - Izakaya
+10. ZONK Hakata
+    - Gion Station -> Hakata Station
+
+## `attractions`
 
 ### Group 1 (Fukuoka Province ,Fukuoka City)
 
@@ -70,13 +100,13 @@
 
 - Nagasaki Champon
 
-## `Highlight`
-
 # `Day 2 (29 march 2023)`
 
 ## `transport way`
 
 ## `itinerary (stay around Hakata Station)`
+
+## `attractions`
 
 ### Group 1 (Fukuoka Province, Sasaguri City)
 
@@ -99,32 +129,32 @@
 
 - Umegae Mochi(Dazaifu Tenmangu,Yasutake)
 
-## `Highlight`
-
 # `Day 3 (30 march 2023)`
 
 ## `transport way`
 
 ## `itinerary (stay around Oita Station)`
 
-## Group 1(Oita Province,Yufuin City)
+## `attractions`
+
+### Group 1(Oita Province,Yufuin City)
 
 - Yufuin Main Street
 - Yufuin floral vilage
 - Kirin lake
 
-## Group 2(Oita Province,Oita City)
+### Group 2(Oita Province,Oita City)
 
 - OITAKAWA RIVER
 
-## Group 3(Oita Province,Oita City)
+### Group 3(Oita Province,Oita City)
 
 - OITA RED BRICK HALL
 - TOKIWA DEPARTMENT STORE
 - CENPORTA STREET
 - RUIN OF FUNAI CASTLE
 
-## Group 4(Oita Province,Oita City)
+### Group 4(Oita Province,Oita City)
 
 - HEIWA CITIZEN PARK
 
@@ -132,13 +162,13 @@
 
 - Kagura(Yufuin)
 
-## `Highlight`
-
 # `Day 4 (31 march 2023)`
 
 ## `transport way`
 
 ## `itinerary (stay around Oita Station)`
+
+## `attractions`
 
 ### Group 1 (Oita Province, Beppu City)
 
@@ -168,13 +198,13 @@
 - Cafe Princess Kitties(カフェ プリンセスキティーズ)
 - Japanese style shop & cafe Wakura(和 style shop＆cafe 和蔵)
 
-## `Highlight`
-
 # `Day 5 (1 april 2023)`
 
 ## `transport way`
 
 ## `itinerary (stay around Hakata Station)`
+
+## `attractions`
 
 ### Group 1 (Kumamoto Province,Aso City)
 
@@ -200,9 +230,7 @@
 
 - KUMAMOTO ZOO & BOTANIC GARDEN
 
-## `Highlight`
-
-## `extra`
+### `extra`
 
 - Katsuretsutei Minamikumamoto
 
@@ -212,11 +240,11 @@
 
 ## `itinerary (stay around Hakata Station)`
 
+## `attractions`
+
 ### Group 6 (Fukuoka Province,Fukuoka City)
 
 - Nokonoshima Island
-
-## `Highlight`
 
 # `Day 7 (3 april 2023)`
 
@@ -227,19 +255,19 @@
 1. hotel -> airport (arrive before 10.50)
 2. Fukuoka -> Suvarnabhumi
 
-# Hotel
+# `Hotel`
 
-## stay around Hakata Station
+## `stay around Hakata Station`
 
 ### ZONK Hakata (28-30 mar)
 
 ### FFFFFF Hotel (1-3 apr)
 
-## stay around Oita Station
+## `stay around Oita Station`
 
 ### Green Rich Hotel Oita Miyakomachi (30 mar-1 apr)
 
-# refs
+# `refs`
 
 - https://kiji.life/travel/japan/kyushu/fukuoka/
 - https://www.hashcorner.com/travel/japan/yufuin-kyushu-%E0%B8%A2%E0%B8%B8%E0%B8%9F%E0%B8%B8%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%84%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B9/
@@ -250,49 +278,13 @@
 - https://kiji.life/8-hells-of-beppu/
 - https://kyushu.japan-tour.jp/?fbclid=IwAR1tCo9WedCSkqQ3S8mSGjiV36XU7R4kQFSyiNbAjiwXNLdSzXlR5KIARwQ
 
-# Draft trip Fukuoka
+# `Attractions`
 
-## Draft 1
+## `Fukuoka Province`
 
-Sure, I can recommend a 7-day trip to Fukuoka for you! Fukuoka is a vibrant city located in southern Japan that has a lot to offer visitors. Here's a suggested itinerary that covers some of the best things to see and do in and around Fukuoka:
+### `Fukuoka City`
 
-Day 1: Arrival and Hakata
-
-Assuming you'll be arriving in Fukuoka in the afternoon, take some time to settle in and explore the Hakata area around the train station. Hakata is known for its bustling streets filled with shops and restaurants. You can also visit the nearby Kushida Shrine, a beautiful Shinto shrine with a traditional Japanese garden.
-
-Day 2: Fukuoka Tower and Ohori Park
-
-Start your day by visiting the Fukuoka Tower, a 234-meter-tall observation tower with stunning views of the city and the sea. Afterward, head to Ohori Park, a beautiful park with a large pond, gardens, and walking paths. You can rent a paddleboat or take a stroll through the park's Japanese garden.
-
-Day 3: Dazaifu and Yanagawa
-
-Today, take a day trip to the nearby towns of Dazaifu and Yanagawa. Dazaifu is known for its beautiful shrine and gardens, while Yanagawa is famous for its picturesque canals and boat tours. You can take a train from Hakata Station to Dazaifu and then a bus to Yanagawa.
-
-Day 4: Nokonoshima Island
-
-Today, take a ferry from Hakata Port to Nokonoshima Island, a small island located just off the coast of Fukuoka. The island is known for its beautiful beaches, hiking trails, and flower gardens. You can rent a bicycle to explore the island or take a dip in the crystal-clear waters.
-
-Day 5: Fukuoka Castle and Canal City Hakata
-
-Start your day by visiting Fukuoka Castle, a historic castle located in the heart of the city. Afterward, head to Canal City Hakata, a large shopping and entertainment complex with a canal running through it. You can shop, dine, or catch a movie at the complex's cinema.
-
-Day 6: Nanzoin Temple and Sasaguri
-
-Today, take a day trip to the nearby towns of Nanzoin and Sasaguri. Nanzoin Temple is known for its large bronze statue of Buddha, while Sasaguri is famous for its beautiful mountain trails and hot springs. You can take a train from Hakata Station to both towns.
-
-Day 7: Fukuoka City Museum and Tenjin
-
-On your last day in Fukuoka, visit the Fukuoka City Museum, a museum dedicated to the city's history and culture. Afterward, head to Tenjin, a bustling area of the city known for its shopping and dining. You can stroll through the streets and sample some of the local cuisine before departing Fukuoka.
-
-As for special events or places to visit during your trip, Fukuoka is known for its festivals, so check if any festivals are taking place during your visit. In March, you can check out the Fukuoka Cherry Blossom Festival, which takes place in various locations throughout the city. Another special event to check out is the Hakata Dontaku Festival, which takes place in May and features parades, dancing, and street performances.
-
-I hope this itinerary helps you plan your trip to Fukuoka and that you have a great time exploring this fascinating city!
-
-# Fukuoka Province (x)
-
-## Fukuoka City (x)
-
-### 1 (x)
+#### Group 1
 
 - Jr Hakata Station
 - Shofukuji-temple
@@ -301,85 +293,84 @@ I hope this itinerary helps you plan your trip to Fukuoka and that you have a gr
 - Sumiyoshi Shrine
 - Canal city
 
-### 2 (x)
+#### Group 2
 
 - Nakasu
 
-### 3 (x)
+#### Group 3
 
 - ย่าน Tenjin
 - Arcos Fukuoka
 - Tenjin Central Park
 
-### 4 (x)
+#### Group 4
 
 - Ohori Park
 - Fukuoka Castle
 
-### 5 (x)
+#### Group 5
 
 - Fukuoka Tower
 - Momochi Seaside park
 
-### 6 (x)
+#### Group 6
 
 - Nokonoshima Island
 
-## Itoshima City
+### `Itoshima City`
 
 - Samurai Futamigaura Beach (Jr from hakata station 1.08 hr)
 
-## Sasaguri City (x)
+### `Sasaguri City`
 
-- Nanzoin Temple (Jr from hakata station 23 minutes) (x)
+- Nanzoin Temple (Jr from hakata station 23 minutes)
 
-## Dazaifu City (x)
+### `Dazaifu City`
 
-- Dazaifu Tenmangu (Jr from hakata station 49 minutes) (x)
-- Starbucks Dazaifu (x)
+- Dazaifu Tenmangu (Jr from hakata station 49 minutes)
+- Starbucks Dazaifu
 
-## Kitakyushu City
+### `Kitakyushu City`
 
-### 1
+#### Group 1
 
 - Kokura Castle (Jr from hakata station 34 minutes)
 
-### 2 ห่างกับ Kokura Castle 34 นาที
+#### Group 2
 
 - Old moji custome office
 - หอสมุดมิตรภาพ
 - norfolk square
 
-# Kumamoto Province (x)
+## `Kumamoto Province`
 
-## Kumamoto City
+### `Kumamoto City`
 
-### 1
+#### Group 1
 
 - Kumamoto Castle (Jr from hakata station 1.17 hr)
 
-### 2
+#### Group 2
 
 - Takahashi inari shrine
 
-## Aso City (x)
+### `Aso City`
 
 - Kusasenri
 - Mt.Aso Nakadake Crater
-
 - Aso boy (jr)
 
-# Nagasaki Province
+## `Nagasaki Province`
 
-## Sasebo city
+### `Sasebo city`
 
 - Huis ten Bosch
 
-# Oita Province (x)
+## `Oita Province`
 
-## Beppu City (x)
+### `Beppu City`
 
-### 1 (x)
+#### Group 1
 
 - Umi Jigoku
 - Chinoke Jigoku
@@ -390,154 +381,19 @@ I hope this itinerary helps you plan your trip to Fukuoka and that you have a gr
 - Kamado Jigoku
 - Yama Jigoku
 
-### 2 (x)
+#### Group 2
 
 - beppu ropeway
 
-## Yufuin City (x)
+### `Yufuin City`
 
 - Yufuin Main Street
 - Yufuin floral vilage
 - Kirin lake
 
-# Day 1 (28 march 2023)
+# `Hotel`
 
-## transport way
-
-- free bus -> domestic terminal -> Jr -> Hakata Station
-- bus -> Hakata Station
-- Taxi -> Hakata Station
-
-## itinerary
-
-1. arrival Fukuoka 08.00
-2. airport -> Hakata Station
-
-- exchange Jr pass [Hakata Station]
-- eat brunch ex. Ippudo ramen [Jr.Hakata 10 th floor]
-
-3. Hakata Station -> hotel (keep baggage) [hakata mizuka business]
-
-4. Canal City Mall
-
-- shopping and dinner
-- Izakaya
-
-## Highlight
-
-![Canal City Mall](/images/Kyushu/Canal-City-Hakata.jpg)
-
-# Day 2 (29 march 2023)
-
-## transport way
-
-## itinerary
-
-1. Hakata Station -> Kido Nanzoin-mae station
-2. Nanzoin Temple
-3. Tocho-ji Temple
-4. Shofuku-ji Temple
-5. Kushida Shrine
-
-## Highlight
-
-![](/images/Kyushu/nanzoin-temple.jpg)
-![](/images/Kyushu/Tochoji-Temple.jpg)
-![](/images/Kyushu/Shofuku-ji.jpg)
-![](/images/Kyushu/Kushida-Shrine.jpg)
-
-# Day 3 (30 march 2023)
-
-## transport way
-
-## itinerary
-
-1. Hakata Station -> Yufuin (booking Yufuin no mori) [`*JR North Kyushu 5 days`]
-2. Yufuin Station -> Yufuin Floral Village
-3. Kirin Lake
-4. Yufuin Station -> Oita Station
-5. Check in hotel [Hotel Area One Oita]
-
-## Highlight
-
-![](/images/Kyushu/yufuin-1.jpg)
-![](/images/Kyushu/yufuin-2.jpg)
-![](/images/Kyushu/yufuin-3.jpg)
-
-# Day 4 (31 march 2023)
-
-## transport way
-
-## itinerary
-
-1. Oita Station -> Kamegawa Station
-2. Kamegawa Station -> Chinoke Jigoku
-3. Umi Jigoku
-4. Beppu Ropeway
-5. Beppu Station -> Oita Station
-6. hotel [Hotel Area One Oita]
-
-## Highlight
-
-![](/images/Kyushu/Chinoke-Jigoku1.jpg)
-![](/images/Kyushu/Chinoke-Jigoku2.jpg)
-![](/images/Kyushu/umi-jigoku-1.jpg)
-![](/images/Kyushu/beppu-ropeway-1.jpg)
-
-# Day 5 (1 april 2023)
-
-## transport way
-
-## itinerary
-
-1. Oita Station -> Aso Station
-2. Aso Station -> Kusazenri (bus)
-3. Mt.Aso Nakadake Crater (bus)
-4. Aso Station -> Kumamoto Station
-5. hotel [Mitsui Garden Hotel Kumamoto]
-
-## Caution
-
-- โรคประจำตัว เช่น หอบหืด,ทางเดินหายใจ,โรคหัวใจ ไม่ควรขึ้นไป aso เพราะภูเขาไฟ aso ยังไม่ดับ จะมีการปล่อย gas พิษออกมา
-
-## Highlight
-
-![](/images/Kyushu/Kusasenri1.jpg)
-![](/images/Kyushu/nakadake.jpg)
-
-## `extra`
-
-- Katsuretsutei Minamikumamoto
-
-# Day 6 (2 april 2023)
-
-## transport way
-
-## itinerary
-
-1. Kumamoto Station -> Hakata Station
-2. Nokoshima Island
-
-## Highlight
-
-![](/images/Kyushu/nakoshima-island-1.jpg)
-![](/images/Kyushu/nakoshima-island-2.jpg)
-![](/images/Kyushu/nakoshima-island-3.jpg)
-![](/images/Kyushu/nakoshima-island-4.jpg)
-![](/images/Kyushu/nakoshima-island-5.jpg)
-
-# Day 7 (3 april 2023)
-
-## transport way
-
-## itinerary
-
-1. hotel -> airport (arrive before 10.50)
-2. Fukuoka -> Suvarnabhumi
-
-# Hotel
-
-## stay around Hakata Station
+## `stay around Hakata Station`
 
 - Wings Hakata (https://www.agoda.com/en-gb/wings-hakata/hotel/fukuoka-jp.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=6&children=0&rooms=3&maxRooms=0&checkIn=2023-03-28&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=3&showReviewSubmissionEntry=false&currencyCode=THB&isFreeOccSearch=false&isCityHaveAsq=false&tspTypes=4&los=2&searchrequestid=22d367c8-31d4-4fd1-8ea9-39ebd77b7518)
 - Katakasu Apartment (https://www.agoda.com/en-gb/katakasu-apartment/hotel/all/fukuoka-jp.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=6&children=0&rooms=3&maxRooms=0&checkIn=2023-03-28&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=3&showReviewSubmissionEntry=false&currencyCode=THB&isFreeOccSearch=false&isCityHaveAsq=false&tspTypes=17&los=2&searchrequestid=22d367c8-31d4-4fd1-8ea9-39ebd77b7518)
@@ -553,7 +409,7 @@ I hope this itinerary helps you plan your trip to Fukuoka and that you have a gr
 - EN HOTEL Hakata (https://www.agoda.com/en-gb/court-hotel-hakataekimae/hotel/fukuoka-jp.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=6&children=0&rooms=3&maxRooms=0&checkIn=2023-03-28&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=3&showReviewSubmissionEntry=false&currencyCode=THB&isFreeOccSearch=false&isCityHaveAsq=false&tspTypes=9&los=2&searchrequestid=22d367c8-31d4-4fd1-8ea9-39ebd77b7518)
 - Hotel Hulaton Fukuokahakata (https://www.agoda.com/en-gb/hotel-hulaton-fukuokahakata/hotel/all/fukuoka-jp.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=6&children=0&rooms=3&maxRooms=0&checkIn=2023-03-28&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=3&showReviewSubmissionEntry=false&currencyCode=THB&isFreeOccSearch=false&isCityHaveAsq=false&tspTypes=9&los=2&searchrequestid=22d367c8-31d4-4fd1-8ea9-39ebd77b7518)
 
-## stay around Oita Station
+## `stay around Oita Station`
 
 - Hotel AreaOne Oita(https://www.agoda.com/en-gb/hotel-areaone-oita/hotel/oita-jp.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=6&children=0&rooms=3&maxRooms=0&checkIn=2023-03-30&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=3&showReviewSubmissionEntry=false&currencyCode=THB&isFreeOccSearch=false&isCityHaveAsq=false&tspTypes=1,8,8&los=1&searchrequestid=ad0cbbbc-1952-45ee-bd6b-35d40933c7e4)
 - Rembrandt Hotel Oita (https://www.agoda.com/en-gb/rembrandt-hotel-oita/hotel/oita-jp.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1844104&numberOfBedrooms=&familyMode=false&adults=6&children=0&rooms=3&maxRooms=0&checkIn=2023-03-30&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=3&showReviewSubmissionEntry=false&currencyCode=THB&isFreeOccSearch=false&isCityHaveAsq=false&tspTypes=4,8&los=1&searchrequestid=ad0cbbbc-1952-45ee-bd6b-35d40933c7e4)
