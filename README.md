@@ -52,6 +52,7 @@
 - Hakata Issou (Hakata rament) [https://www.google.com/maps/place/Hakata+Issou/@33.5865599,130.4231707,17z/data=!3m1!5s0x354191b6148a5d0d:0x749d0c38834c28a4!4m6!3m5!1s0x354191b614dd0001:0xd021dc83c19d7221!8m2!3d33.586378!4d130.4250999!16s%2Fg%2F12hkbkzwl]
 - il FORNO del MIGNON (ครัวซองต์) [https://www.google.com/maps/place/%E3%83%9F%E3%83%8B%E3%83%A7%E3%83%B3+(il+FORNO+del+MIGNON)/@33.5900292,130.4191387,18z/data=!3m1!5s0x354191b808122eff:0xdb78b1ed04a82d0!4m6!3m5!1s0x354191c876209f25:0x744435db610c9475!8m2!3d33.5902265!4d130.420495!16s%2Fg%2F1tngn1hv]
 - KAZAGURUMA (Izakaya) [https://www.google.com/maps/place/Kazaguruma/@33.5902079,130.4231749,19z/data=!4m6!3m5!1s0x354191c856aaaae1:0xdee39c406b96ab38!8m2!3d33.5902054!4d130.4232378!16s%2Fg%2F1tgq4fb3]
+- 10 ร้านราเมนใกล้สถานีฮากาตะในฟุกุโอกะ [https://kiji.life/10-hakata-ramen/]
 
 ### Gion Station
 
@@ -157,7 +158,16 @@
 
 ## `recommended foods & cafe`
 
-- Kagura(Yufuin)
+### Yufuin
+
+- Kagura(Yufuin) (อาหารเป็นเซต) [http://www.yufuin-kagura.com/en/] [https://www.google.com/maps/place/Kagura/@33.2683187,131.3621735,17z/data=!3m2!4b1!5s0x3546ae7e38214f57:0x5c0fc41c7cd06cce!4m6!3m5!1s0x3546ae7e386f57e1:0x1db35ade8b629651!8m2!3d33.2683142!4d131.3643622!16s%2Fg%2F11f4pvbg2z]
+- Yufumabushi shin (ข้าวหน้าเนื้อ) [https://www.google.co.th/maps/place/Yufumabushi+Shin/@33.2671853,131.3634755,17z/data=!4m10!1m2!2m1!1sYufumabushi+shin!3m6!1s0x3546ae7d915bb8ad:0x348a50a9acb2baad!8m2!3d33.2671853!4d131.3678529!15sChBZdWZ1bWFidXNoaSBzaGluWhIiEHl1ZnVtYWJ1c2hpIHNoaW6SARxqYXBhbmVzZV9yZWdpb25hbF9yZXN0YXVyYW504AEA!16s%2Fg%2F11bwfkxw_c?hl=th]
+- Izumi (โซบะ) [https://www.google.co.th/maps/place/Izumi+Soba/@33.2674002,131.366342,17z/data=!3m1!4b1!4m6!3m5!1s0x3546ae7d82395695:0xf16b090cad0de028!8m2!3d33.2673957!4d131.3685307!16s%2Fg%2F1tk6n3t6?hl=th]
+
+### Oita
+
+- 10 ร้านที่จะแนะนำ Oita [https://www.facebook.com/oitatourism/posts/2283993305006912/]
+- ร้านอาหารแถวที่พัก [https://www.google.com/search?sa=X&rlz=1C1VDKB_enTH1026TH1026&hotel_occupancy=2&tbs=lf:1,lf_ui:4&tbm=lcl&sxsrf=APwXEdcFUZL5eACu_MIyveY53cLhVUEE5A:1679678742353&q=restaurants+around+Green+Rich+Hotel+Oita+Miyako+Machi&rflfq=1&num=10&ved=2ahUKEwif8pj2ivX9AhXxS2wGHctwCwgQjGp6BAgbEAE&biw=1920&bih=937&dpr=1#rlfi=hd:;si:11693111890068102014,l,CjVyZXN0YXVyYW50cyBhcm91bmQgR3JlZW4gUmljaCBIb3RlbCBPaXRhIE1peWFrbyBNYWNoaSIDiAEBSNymtNPlgICACFpFEAAYACI1cmVzdGF1cmFudHMgYXJvdW5kIGdyZWVuIHJpY2ggaG90ZWwgb2l0YSBtaXlha28gbWFjaGkqBAgDEAAyAmVukgEbamFwYW5lc2VfaXpha2F5YV9yZXN0YXVyYW50qgEzEAEqDyILcmVzdGF1cmFudHMoADIeEAEiGrLQu05CLeUjRvHzpyMVXoVH50vybHGPsWcO;mv:[[33.240953499999996,131.60601309999998],[33.23937550000001,131.6030251]]]
 
 # `Day 4 (31 march 2023)`
 
@@ -197,11 +207,15 @@
 
 ## `recommended foods & cafe`
 
-- Okamotoya Baiten
-- Hokkaido Dining Hal(Izakaya)
-- Toyotsune Honten (jp friend recommend)
-- Cafe Princess Kitties (jp friend recommend)
-- 和 style shop＆cafe 和蔵 (jp friend recommend)
+### beppu
+
+- Okamotoya Baiten (อาหารทั่วไป พุดดิ้ง) [https://www.google.com/search?q=Okamotoya+Baiten&rlz=1C1VDKB_enTH1026TH1026&hotel_occupancy=2&biw=1920&bih=937&tbm=lcl&sxsrf=APwXEddUdh_A-dL42OlQLdqMVrgNtl7p_g%3A1679678763525&ei=K90dZL3NH-SMseMPv6eU4AU&ved=0ahUKEwj9jqWAi_X9AhVkRmwGHb8TBVwQ4dUDCAk&oq=Okamotoya+Baiten&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAwyBAgjECdQAFgAYM0IaABwAHgAgAFPiAFPkgEBMZgBAKABAqABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:14918543805073597801,l,ChBPa2Ftb3RveWEgQmFpdGVuGf7H06j6YIgHSPuGkMOcqoCACFoYEAAQARgAIhBva2Ftb3RveWEgYmFpdGVukgEJc25hY2tfYmFy,y,jQQ4BbOgoVk;mv:[[33.31823417731903,131.45282677808433],[33.31787422268097,131.4523960219157]]]
+- Toyotsune Honten (พวกข้าวหน้า tempura) (jp friend recommend) [https://www.google.com/maps/place/Toyotsune+Honten/@33.2797595,131.5048515,17z/data=!3m1!4b1!4m6!3m5!1s0x3546a6db8eb94dcb:0xf55373a8571fdf69!8m2!3d33.279755!4d131.5070402!16s%2Fg%2F1tdvbctw]
+- Kogetsu (หมี่เย็น เบปปุเรเมน) [https://www.google.com/search?q=%E8%83%A1%E6%9C%88+%2F+Kogetsu&rlz=1C1VDKB_enTH1026TH1026&hotel_occupancy=2&biw=1920&bih=937&tbm=lcl&sxsrf=APwXEdcZ_NHqKXWmfCfpTnHwMQRJ-p00Gg%3A1679679018658&ei=Kt4dZKDqJ8anseMP2bm3EA&ved=0ahUKEwigp_n5i_X9AhXGU2wGHdncDQIQ4dUDCAk&oq=%E8%83%A1%E6%9C%88+%2F+Kogetsu&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAwyBQgAEKIEOgQIIxAnOggIABCABBDLAToFCAAQgAQ6CggAEIAEEAoQywFQmzRYmzRgzDtoAHAAeACAAVaIAaEBkgEBMpgBAKABAqABAcABAQ&sclient=gws-wiz-local#rlfi=hd:;si:8255118134850968658,l,ChDog6HmnIggLyBLb2dldHN1kgEWY29sZF9ub29kbGVfcmVzdGF1cmFudA,y,05L5H8ZjX30;mv:[[33.30255897731902,131.49950633936697],[33.302199022680966,131.49907566063303]]]
+- 一休の泪 / Ikkyu no Namida (หมี่เย็น เบปปุเรเมน) [https://www.google.com/search?q=%E4%B8%80%E4%BC%91%E3%81%AE%E6%B3%AA+%2F+Ikkyu+no+Namida&rlz=1C1VDKB_enTH1026TH1026&hotel_occupancy=2&biw=1920&bih=937&tbm=lcl&sxsrf=APwXEdfO3TDgzMipuAVPQdAnnlIEMK4OTw%3A1679678816679&ei=YN0dZO6AKeqOseMPl9yhsAY&ved=0ahUKEwjusNGZi_X9AhVqR2wGHRduCGYQ4dUDCAk&oq=%E4%B8%80%E4%BC%91%E3%81%AE%E6%B3%AA+%2F+Ikkyu+no+Namida&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAwyBAghEBVQAFgAYMEHaABwAHgAgAFqiAFqkgEDMC4xmAEAoAECoAEBwAEB&sclient=gws-wiz-local#rlfi=hd:;si:4993182760640255528,l,Ch7kuIDkvJHjga7ms6ogLyBJa2t5dSBubyBOYW1pZGFIr9bF-4KrgIAIWjIQAxAEEAUYABgBGAIYAxgEGAUiHuS4gOS8kSDjga4g5rOqIGlra3l1IG5vIG5hbWlkYZIBFmNvbGRfbm9vZGxlX3Jlc3RhdXJhbnQ;mv:[[33.30587517731903,131.49090844755537],[33.30551522268097,131.49047775244458]]]
+- Hokkaido Dining Hal(Izakaya) [https://www.google.com/search?q=Hokkaido+Dining+Hal+oita&rlz=1C1VDKB_enTH1026TH1026&hotel_occupancy=2&biw=1920&bih=937&tbm=lcl&sxsrf=APwXEdfPQcLEQPLMUwUxNq2p-rZdZprg4A%3A1679679318735&ei=Vt8dZMzGLOufseMP9sm7kAg&ved=0ahUKEwjMyYSJjfX9AhXrT2wGHfbkDoIQ4dUDCAk&uact=5&oq=Hokkaido+Dining+Hal+oita&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAMyBwghEKABEAoyBwghEKABEAoyBwghEKABEAoyBwghEKABEAo6BAgjECc6BggAEBYQHjoECCEQCjoHCCMQsAIQJ1DXAljRC2CXEmgAcAB4AIABeIgBtgSSAQM0LjKYAQCgAQHAAQE&sclient=gws-wiz-local#rlfi=hd:;si:11178041904540051461,l,ChhIb2trYWlkbyBEaW5pbmcgSGFsIG9pdGFIiOyEtMyPgIAIWjIQABABEAIYABgBGAIYAyIYaG9ra2FpZG8gZGluaW5nIGhhbCBvaXRhKggIAhAAEAEQApIBEnNlYWZvb2RfcmVzdGF1cmFudA,y,sqi9H1c59yc;mv:[[33.28049197731903,131.5020803849129],[33.28013202268097,131.50164981508712]]]
+- Cafe Princess Kitties (jp friend recommend) [https://www.google.com/maps/place/%E3%82%AB%E3%83%95%E3%82%A7+%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%AD%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA/@33.2774667,131.4955513,17z/data=!3m1!4b1!4m6!3m5!1s0x3546a6e911268acf:0x148185f5368533f9!8m2!3d33.2774622!4d131.49774!16s%2Fg%2F1thxt04h]
+- 和 style shop＆cafe 和蔵 (jp friend recommend) [https://www.google.com/maps/place/%E5%92%8C%E3%83%BBstyle+shop%EF%BC%86cafe+%E5%92%8C%E8%94%B5/@33.2774667,131.4955513,17z/data=!4m6!3m5!1s0x3546a645fad3aaab:0xc63a0724547ce1c8!8m2!3d33.2925624!4d131.4667441!16s%2Fg%2F1tdnz80g]
 
 # `Day 5 (1 april 2023)`
 
@@ -260,18 +274,18 @@
 
 # `refs`
 
-- https://kiji.life/travel/japan/kyushu/fukuoka/
-- https://www.hashcorner.com/travel/japan/yufuin-kyushu-%E0%B8%A2%E0%B8%B8%E0%B8%9F%E0%B8%B8%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%84%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B9/
-- https://pantip.com/topic/39289618
-- https://pantip.com/topic/41874293?sc=Y697zpE
-- https://pantip.com/topic/41878678?sc=FA1ONwJ
-- https://pantip.com/topic/41867493
-- https://kiji.life/8-hells-of-beppu/
-- https://kyushu.japan-tour.jp/?fbclid=IwAR1tCo9WedCSkqQ3S8mSGjiV36XU7R4kQFSyiNbAjiwXNLdSzXlR5KIARwQ
-- https://www.emagtravel.com/archive/beppu-trip.html
-- https://th.blog.kkday.com/13663/transportation-guide-in-fukuoka/
-- https://www.talonjapan.com/fukuoka-tourist-city-pass/
-- https://food.trueid.net/detail/V37aL9NywQYl
+- https://kiji.life/travel/japan/kyushu/fukuoka/ [ฟุกุโอกะ - FUKUOKA]
+- https://www.hashcorner.com/travel/japan/yufuin-kyushu-%E0%B8%A2%E0%B8%B8%E0%B8%9F%E0%B8%B8%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%84%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B9/ [รีวิว ยูฟุอิน (Yufuin) x คิวชู ญี่ปุ่นสไตล์เที่ยวเก่ง]
+- https://pantip.com/topic/39289618 [[CR] เที่ยวรัวรัว : Nokonoshima Island Park ให้มันเป็นสีชมพูที่ Fukuoka]
+- https://pantip.com/topic/41874293?sc=Y697zpE [[CR] 9วัน8คืน Japan Northern Kyushu : Fukuoka ตอนที่1 l TouchAndGo]
+- https://pantip.com/topic/41867493 [[CR] [ EP. 1 ] North Kyushu, Japan 2023 : Fukuoka, Oita, Nagasaki ผู้หญิงคนเดียวก็เที่ยวได้]
+- https://kiji.life/8-hells-of-beppu/ [8 Hells of Beppu : บ่อนรกในเบปปุที่ต้องมาเยือนให้ได้สักครั้ง]
+- https://kyushu.japan-tour.jp/?fbclid=IwAR1tCo9WedCSkqQ3S8mSGjiV36XU7R4kQFSyiNbAjiwXNLdSzXlR5KIARwQ [Kyushu]
+- https://www.emagtravel.com/archive/beppu-trip.html [รีวิวเที่ยวเบปปุ Beppu ใน 1 วัน ชมบ่อนรกจิโกกุ Jigoku]
+- https://th.blog.kkday.com/13663/transportation-guide-in-fukuoka/ [รวมคู่มือการเดินทางในฟุกุโอกะ + แนะนำบัตรสารพัดประโยชน์ที่ต้องมี]
+- https://www.talonjapan.com/fukuoka-tourist-city-pass/ [Fukuoka Tourist City Pass – บัตรเที่ยวในตัวเมืองฟุกุโอกะและดาไซฟุ]
+- https://food.trueid.net/detail/V37aL9NywQYl [15 ร้านอาหาร ฟุกุโอกะ รวมร้านเด็ด ไปเที่ยวทั้งที พี่ต้องได้กินของอร่อย!]
+- https://th.readme.me/p/34157 [Yufuin เมืองเล็กในหุบเขา ที่เราไม่เคยลืม]
 
 # `Attractions`
 
