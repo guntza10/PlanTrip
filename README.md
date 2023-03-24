@@ -41,22 +41,23 @@
 
 ## `recommended foods & cafe`
 
-- Motsunabe (Maedaya restaurant,Hakata Hanamidori,Motsu-nabe OYAMA KITTE Hakata)
-- Hakata ramen (Ikkosha,Ichiran Ramen)
-- Mentaiko
-- Ono no Hanare
-- Fujiken
-- Daimyohaete
-- Matsusuke
-- Gyudon(Yoshinoya,Sukiya)
-- Yakitori (Torikizoku)
-- Yakiniku (Gyukaku)
-- Daimyo softcream
-- Fujiya Daimyo(Yakinuku,beer)
-- Fukuoka Hakata Yatai (Yatai mura)
-- Island eye
-- Isomaru Suisan
-- Nagasaki Champon
+- Maedaya restaurant (Motsunabe) (jp friend recommend,BTS) [https://www.fun-japan.jp/th/articles/12463]
+- Hakata Hanamidori (Motsunabe)
+- Motsu-nabe OYAMA KITTE Hakata (Motsunabe) [https://chillchilljapan.com/motsunabe-oyama/]
+- Ikkosha (Hakata ramen) (jp friend recommend)
+- Ichiran Ramen (Hakata ramen)
+- Tetsunabe Gyoza
+- Tempura Hirao
+- Ganso Hakata Mentaiju
+- Fujiken Nakasu (jp friend recommend)
+- Daimyo Hete (jp friend recommend)
+- Matsusuke Nishinakasu (jp friend recommend) [https://www.tripadvisor.com/Restaurant_Review-g14127491-d9613743-Reviews-Matsusuke_Nishinakasu-Chuo_Fukuoka_Fukuoka_Prefecture_Kyushu.html]
+- torikizoku fukuoka (Yakitori) (jp friend recommend)
+- Gyukaku Fukuoka (Yakiniku) (jp friend recommend)
+- Daimyo soft cream
+- Fujiya Daimyo(Yakinuku,beer) [https://chillchilljapan.com/5-valuable-yakiniku-buffet-in-fukuoka/]
+- Fukuoka Hakata Yatai (Yatai mura) [https://kiji.life/hakata-yatai/]
+- Isomaru Suisan (Izakaya)
 
 # `Day 2 (29 march 2023)`
 
@@ -155,11 +156,11 @@
 
 ## `recommended foods & cafe`
 
-- Okamotoya light meal restaurant
-- Hal: Hokkaido dinning hal(Izakaya)
-- Oshokujidokoro to yo tsune Beppu honten(お食事処 とよ常 別府本店)
-- Cafe Princess Kitties(カフェ プリンセスキティーズ)
-- Japanese style shop & cafe Wakura(和 style shop＆cafe 和蔵)
+- Okamotoya Baiten
+- Hokkaido Dining Hal(Izakaya)
+- Toyotsune Honten (jp friend recommend)
+- Cafe Princess Kitties (jp friend recommend)
+- 和 style shop＆cafe 和蔵 (jp friend recommend)
 
 # `Day 5 (1 april 2023)`
 
