@@ -82,7 +82,7 @@
 
 - Fujiya Daimyo (Yakiniku,beer) [https://chillchilljapan.com/5-valuable-yakiniku-buffet-in-fukuoka/]
 - Daimyo Hete (jp friend recommend) (Izakaya)
-- Daimyo soft cream
+- Daimyo softcream
 
 ### Tenjinminami Station
 
