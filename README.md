@@ -286,6 +286,8 @@
 - https://www.talonjapan.com/fukuoka-tourist-city-pass/ [Fukuoka Tourist City Pass – บัตรเที่ยวในตัวเมืองฟุกุโอกะและดาไซฟุ]
 - https://food.trueid.net/detail/V37aL9NywQYl [15 ร้านอาหาร ฟุกุโอกะ รวมร้านเด็ด ไปเที่ยวทั้งที พี่ต้องได้กินของอร่อย!]
 - https://th.readme.me/p/34157 [Yufuin เมืองเล็กในหุบเขา ที่เราไม่เคยลืม]
+- https://fromjapan.info/th/prefecture-fukuoka/ [รวม 15 ที่เที่ยวใน ‘จังหวัดฟุกุโอกะ’ ที่ต้องไปให้ได้สักครั้ง!]
+- https://roijang.com/%E0%B8%9F%E0%B8%B8%E0%B8%81%E0%B8%B8%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7/ [20 ฟุกุโอกะที่เที่ยว 2023 ที่เที่ยวญี่ปุ่น [มีนาคม 2023]]
 
 # `Attractions`
 
