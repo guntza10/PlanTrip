@@ -66,7 +66,7 @@
 ### Tenjin Subway Station,Tenjin ( Nishitetsu Fukuoka Omuta Line)
 
 - Ichiran Ramen สาขาชาม 4 เหลี่ม (Ichiran Tenjin Nishidori) (Hakata ramen) [https://www.google.com/maps/place/Ichiran+Tenjin+Nishidori/@33.5886501,130.3958232,20z/data=!4m6!3m5!1s0x35419185fa948f31:0x5b30b2fbd510e493!8m2!3d33.5888763!4d130.3962161!16s%2Fg%2F12xqx5czd]
-- Fujiya Daimyo(Yakinuku,beer) [https://chillchilljapan.com/5-valuable-yakiniku-buffet-in-fukuoka/]
+- Karubi Daimao (Yakiniku)
 
 ### Nakasukawabata Station
 
@@ -76,15 +76,17 @@
 - Fujiken Nakasu (jp friend recommend)
 - Matsusuke Nishinakasu (jp friend recommend) (Izakaya) [https://www.tripadvisor.com/Restaurant_Review-g14127491-d9613743-Reviews-Matsusuke_Nishinakasu-Chuo_Fukuoka_Fukuoka_Prefecture_Kyushu.html]
 - Gyukaku Fukuoka สาขา Nakasu (Yakiniku) (jp friend recommend)
+- Fukuoka Hakata Yatai (Yatai mura) [https://kiji.life/hakata-yatai/]
 
 ### Akasaka Station
 
+- Fujiya Daimyo (Yakiniku,beer) [https://chillchilljapan.com/5-valuable-yakiniku-buffet-in-fukuoka/]
 - Daimyo Hete (jp friend recommend) (Izakaya)
 - Daimyo soft cream
-- Fujiya Daimyo (Yakiniku,beer)
 
-- Fukuoka Hakata Yatai (Yatai mura) [https://kiji.life/hakata-yatai/]
-- Isomaru Suisan (Izakaya)
+### Tenjinminami Station
+
+- Yakinikuuesuto (Yakiniku,Beer)
 
 # `Day 2 (29 march 2023)`
 
