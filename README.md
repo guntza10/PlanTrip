@@ -43,12 +43,15 @@
 
 ### Hakata Station
 
-- Maedaya สาขา Hakatamotsunabe Sohonten (Motsunabe) (jp friend recommend,BTS) [https://www.fun-japan.jp/th/articles/12463]
+- Maedaya สาขา Hakatamotsunabe Sohonten (Motsunabe) (jp friend recommend,BTS) [https://www.fun-japan.jp/th/articles/12463] [https://www.google.com/maps/place/Hakatamotsunabe+Maedaya+Sohonten/@33.5887656,130.4220393,18z/data=!3m1!5s0x354191c9e6abeb89:0xa6853867b3eb6ce3!4m6!3m5!1s0x354191b570a11961:0xcc17cdf89a6e0068!8m2!3d33.5877611!4d130.4254764!16s%2Fg%2F11fcv7hs89]
 - Ooyama Motsunabe สาขา HAKATA DEITOS (Motsunabe) [https://chillchilljapan.com/motsunabe-oyama/]
-- Ichifuji สาขา Hakata (Motsunabe)
-- Hakata Hanamidori (Motsunabe)
+- Ichifuji สาขา Hakata (Motsunabe) [https://chillchilljapan.com/motsunabe-oyama/]
 - Ikkosha (Hakata ramen) (jp friend recommend)
-- torikizoku fukuoka (Izakaya) (jp friend recommend)
+- torikizoku fukuoka (Izakaya) (jp friend recommend) [https://www.google.com/maps/place/Torikizoku+Hakata+Chikushikuchi/@33.58916,130.4051726,15z/data=!4m10!1m2!2m1!1storikizoku+fukuoka!3m6!1s0x354191a0d42b391d:0xde84f8aaf31ddb5d!8m2!3d33.58916!4d130.4226821!15sChJ0b3Jpa2l6b2t1IGZ1a3Vva2EiA4gBAZIBE3lha2l0b3JpX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11t7tzscsn]
+- Hagakure Udon (Udon) [https://www.google.co.th/maps/place/Hagakure+Udon/@33.583601,130.424646,17z/data=!3m1!4b1!4m6!3m5!1s0x354191b6c660c81f:0x3a06517eb6968b8f!8m2!3d33.583601!4d130.424646!16s%2Fg%2F1tnk_541?hl=th]
+- Hakata Issou (Hakata rament) [https://www.google.com/maps/place/Hakata+Issou/@33.5865599,130.4231707,17z/data=!3m1!5s0x354191b6148a5d0d:0x749d0c38834c28a4!4m6!3m5!1s0x354191b614dd0001:0xd021dc83c19d7221!8m2!3d33.586378!4d130.4250999!16s%2Fg%2F12hkbkzwl]
+- il FORNO del MIGNON (ครัวซองต์) [https://www.google.com/maps/place/%E3%83%9F%E3%83%8B%E3%83%A7%E3%83%B3+(il+FORNO+del+MIGNON)/@33.5900292,130.4191387,18z/data=!3m1!5s0x354191b808122eff:0xdb78b1ed04a82d0!4m6!3m5!1s0x354191c876209f25:0x744435db610c9475!8m2!3d33.5902265!4d130.420495!16s%2Fg%2F1tngn1hv]
+- KAZAGURUMA (Izakaya) [https://www.google.com/maps/place/Kazaguruma/@33.5902079,130.4231749,19z/data=!4m6!3m5!1s0x354191c856aaaae1:0xdee39c406b96ab38!8m2!3d33.5902054!4d130.4232378!16s%2Fg%2F1tgq4fb3]
 
 ### Gion Station
 
@@ -67,26 +70,32 @@
 
 - Ichiran Ramen สาขาชาม 4 เหลี่ม (Ichiran Tenjin Nishidori) (Hakata ramen) [https://www.google.com/maps/place/Ichiran+Tenjin+Nishidori/@33.5886501,130.3958232,20z/data=!4m6!3m5!1s0x35419185fa948f31:0x5b30b2fbd510e493!8m2!3d33.5888763!4d130.3962161!16s%2Fg%2F12xqx5czd]
 - Karubi Daimao (Yakiniku)
+- - Shin Shin Ramen [https://www.google.co.th/maps/place/Shin+Shin/@33.5928028,130.39654,19z/data=!3m1!5s0x3541918ebfe0bab7:0xcf40bf77e6cfc010!4m6!3m5!1s0x3541918ebfe75069:0x6950635bd344e25a!8m2!3d33.5927497!4d130.3968446!16s%2Fg%2F11c3k6mgc2?hl=th]
+- HOC Cheesecake (เค้ก) [https://www.google.co.th/maps/place/HOC%EF%BC%88%E3%83%9B%E3%83%83%E3%82%AF%EF%BC%89/@33.5958953,130.3954291,17z/data=!3m2!4b1!5s0x3541918cf866d581:0xf4081cef42d2ef58!4m6!3m5!1s0x3541917323e953c3:0x16f22ab0faf42d06!8m2!3d33.5958909!4d130.3976178!16s%2Fg%2F11sgr4ftd_?hl=th]
+- Hyotan Sushi [https://www.google.co.th/maps/place/Hyotan+Sushi/@33.5896441,130.3986977,20z/data=!3m1!5s0x3541918fea4dc8cf:0x486cece418928ee5!4m6!3m5!1s0x3541918fa2c5caa7:0x1af2c6080ee50a5e!8m2!3d33.5896294!4d130.3987348!16s%2Fg%2F1tdnc0bd?hl=th]
 
 ### Nakasukawabata Station
 
-- Tetsunabe Gyoza
-- Tempura Hirao
-- Ganso Hakata Mentaiju
+- Tetsunabe Gyoza [https://www.google.com/maps/place/Tetsunabe+Gyoza/@33.5925811,130.4034635,17z/data=!3m2!4b1!5s0x35419193804e4981:0xa0383261c7d8b7ec!4m6!3m5!1s0x354191938049666b:0x431ed8a1f6eec239!8m2!3d33.5925767!4d130.4056522!16s%2Fg%2F1tfzppw1]
+- Tempura Hirao [https://www.google.com/maps/search/Tempura+Hirao/@33.5867497,130.3841303,13z/data=!3m1!4b1]
+- Ganso Hakata Mentaiju (อาหารที่มี mentaiko ผสม) [https://www.google.co.th/maps/place/Ganso+Hakata+Mentaiju/@33.5912209,130.403316,17.83z/data=!4m5!3m4!1s0x35419193dbe0b793:0xde0bd15c9081b8fc!8m2!3d33.5912205!4d130.4040459?hl=th&coh=164777&entry=tt&shorturl=1]
 - Fujiken Nakasu (jp friend recommend)
 - Matsusuke Nishinakasu (jp friend recommend) (Izakaya) [https://www.tripadvisor.com/Restaurant_Review-g14127491-d9613743-Reviews-Matsusuke_Nishinakasu-Chuo_Fukuoka_Fukuoka_Prefecture_Kyushu.html]
 - Gyukaku Fukuoka สาขา Nakasu (Yakiniku) (jp friend recommend)
 - Fukuoka Hakata Yatai (Yatai mura) [https://kiji.life/hakata-yatai/]
+- Isomarusuisan Nakasukokutaidoroten (Izakaya) [https://www.google.com/maps/place/Isomarusuisan+Nakasukokutaidoroten/@33.5910709,130.407204,19z/data=!4m15!1m8!3m7!1s0x3541919448aae029:0x25429bc17d9b5eaf!2sIsomarusuisan+Nakasukokutaidoroten!8m2!3d33.5910709!4d130.4077512!10e5!16s%2Fg%2F11f3ttl3pn!3m5!1s0x3541919448aae029:0x25429bc17d9b5eaf!8m2!3d33.5910709!4d130.4077512!16s%2Fg%2F11f3ttl3pn]
 
 ### Akasaka Station
 
 - Fujiya Daimyo (Yakiniku,beer) [https://chillchilljapan.com/5-valuable-yakiniku-buffet-in-fukuoka/]
-- Daimyo Hete (jp friend recommend) (Izakaya)
+- Daimyo Hete (jp friend recommend) (Izakaya) [https://www.google.com/maps/place/Daimyo+Hete/@33.5866889,130.3913823,17z/data=!3m2!4b1!5s0x35419186dcecb807:0x98e05612c06756bd!4m6!3m5!1s0x35419186ddf36a1f:0x22793ab16a9163fd!8m2!3d33.5866845!4d130.393571!16s%2Fg%2F11bcclyyng]
 - Daimyo softcream
+- Gyukatsu Motomura(ข้าวหน้าเนื้อย่างชุบแป้งทอด ย่างเตาหิน) [https://www.google.co.th/maps/place/Gyukatsu+Motomura/@33.5874891,130.3964801,17z/data=!3m2!4b1!5s0x600092480fef5647:0x1a9ba9b40e0cf0f7!4m6!3m5!1s0x35419185c5b81855:0x192298f2b40408e8!8m2!3d33.5874891!4d130.3964801!16s%2Fg%2F11c75h4_ng?hl=th]
+- 10 COFFEE BREWERS FUK [https://www.google.com/maps/place/10+COFFEE+BREWERS+FUK/@33.5870656,130.3928997,17z/data=!3m1!4b1!4m6!3m5!1s0x3541916ef6cef5ed:0xdda3cd6a5815350f!8m2!3d33.5870656!4d130.3928997!16s%2Fg%2F11fkv_x0q0]
 
 ### Tenjinminami Station
 
-- Yakinikuuesuto (Yakiniku,Beer)
+- Yakinikuuesuto (Yakiniku,Beer) [https://www.google.com/maps/search/Yakinikuuesuto/@33.5881849,130.3573712,13z/data=!3m1!4b1]
 
 # `Day 2 (29 march 2023)`
 
@@ -122,8 +131,7 @@
 ### Dazaifu Station
 
 - Ichiran Ramen สาขาชาม 5 เหลี่ยม (Ichiran Dazaifu Sando) (Hakata ramen)[https://www.google.com/maps/place/Ichiran+Dazaifu+Sando/@33.5187236,130.5308375,17z/data=!4m6!3m5!1s0x35419ba2ed157ce9:0x10e3410a156b881b!8m2!3d33.5190706!4d130.5316571!16s%2Fg%2F1ptx_tt47?hl=en]
-
-- Umegae Mochi(Dazaifu Tenmangu,Yasutake)
+- Umegae Mochi
 
 # `Day 3 (30 march 2023)`
 
@@ -263,6 +271,7 @@
 - https://www.emagtravel.com/archive/beppu-trip.html
 - https://th.blog.kkday.com/13663/transportation-guide-in-fukuoka/
 - https://www.talonjapan.com/fukuoka-tourist-city-pass/
+- https://food.trueid.net/detail/V37aL9NywQYl
 
 # `Attractions`
 
