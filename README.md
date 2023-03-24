@@ -238,7 +238,7 @@
 
 ### ZONK Hakata (28-30 mar) [check-in after 15.00,check-out before 11.00]
 
-- ฝากกระเป๋าได้หลัง (?)
+- ฝากกระเป๋าได้ตลอด 24 ชม
 
 ### FFFFFF Hotel (1-3 apr) [check-in after 16.00,check-out before 10.00]
 
@@ -248,7 +248,7 @@
 
 ### Green Rich Hotel Oita Miyakomachi (30 mar-1 apr) [check-in after 15.00,check-out before 11.00]
 
-- ฝากกระเป๋าได้หลัง (?)
+- ฝากกระเป๋าได้ตลอด 24 ชม
 
 # `refs`
 
