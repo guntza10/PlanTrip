@@ -228,6 +228,7 @@
 - https://kyushu.japan-tour.jp/?fbclid=IwAR1tCo9WedCSkqQ3S8mSGjiV36XU7R4kQFSyiNbAjiwXNLdSzXlR5KIARwQ
 - https://www.emagtravel.com/archive/beppu-trip.html
 - https://th.blog.kkday.com/13663/transportation-guide-in-fukuoka/
+- https://www.talonjapan.com/fukuoka-tourist-city-pass/
 
 # `Attractions`
 
