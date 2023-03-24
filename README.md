@@ -70,7 +70,7 @@
 
 - Ichiran Ramen สาขาชาม 4 เหลี่ม (Ichiran Tenjin Nishidori) (Hakata ramen) [https://www.google.com/maps/place/Ichiran+Tenjin+Nishidori/@33.5886501,130.3958232,20z/data=!4m6!3m5!1s0x35419185fa948f31:0x5b30b2fbd510e493!8m2!3d33.5888763!4d130.3962161!16s%2Fg%2F12xqx5czd]
 - Karubi Daimao (Yakiniku)
-- - Shin Shin Ramen [https://www.google.co.th/maps/place/Shin+Shin/@33.5928028,130.39654,19z/data=!3m1!5s0x3541918ebfe0bab7:0xcf40bf77e6cfc010!4m6!3m5!1s0x3541918ebfe75069:0x6950635bd344e25a!8m2!3d33.5927497!4d130.3968446!16s%2Fg%2F11c3k6mgc2?hl=th]
+- Shin Shin Ramen [https://www.google.co.th/maps/place/Shin+Shin/@33.5928028,130.39654,19z/data=!3m1!5s0x3541918ebfe0bab7:0xcf40bf77e6cfc010!4m6!3m5!1s0x3541918ebfe75069:0x6950635bd344e25a!8m2!3d33.5927497!4d130.3968446!16s%2Fg%2F11c3k6mgc2?hl=th]
 - HOC Cheesecake (เค้ก) [https://www.google.co.th/maps/place/HOC%EF%BC%88%E3%83%9B%E3%83%83%E3%82%AF%EF%BC%89/@33.5958953,130.3954291,17z/data=!3m2!4b1!5s0x3541918cf866d581:0xf4081cef42d2ef58!4m6!3m5!1s0x3541917323e953c3:0x16f22ab0faf42d06!8m2!3d33.5958909!4d130.3976178!16s%2Fg%2F11sgr4ftd_?hl=th]
 - Hyotan Sushi [https://www.google.co.th/maps/place/Hyotan+Sushi/@33.5896441,130.3986977,20z/data=!3m1!5s0x3541918fea4dc8cf:0x486cece418928ee5!4m6!3m5!1s0x3541918fa2c5caa7:0x1af2c6080ee50a5e!8m2!3d33.5896294!4d130.3987348!16s%2Fg%2F1tdnc0bd?hl=th]
 
