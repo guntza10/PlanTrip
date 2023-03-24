@@ -41,21 +41,48 @@
 
 ## `recommended foods & cafe`
 
-- Maedaya restaurant (Motsunabe) (jp friend recommend,BTS) [https://www.fun-japan.jp/th/articles/12463]
+### Hakata Station
+
+- Maedaya สาขา Hakatamotsunabe Sohonten (Motsunabe) (jp friend recommend,BTS) [https://www.fun-japan.jp/th/articles/12463]
+- Ooyama Motsunabe สาขา HAKATA DEITOS (Motsunabe) [https://chillchilljapan.com/motsunabe-oyama/]
+- Ichifuji สาขา Hakata (Motsunabe)
 - Hakata Hanamidori (Motsunabe)
-- Motsu-nabe OYAMA KITTE Hakata (Motsunabe) [https://chillchilljapan.com/motsunabe-oyama/]
 - Ikkosha (Hakata ramen) (jp friend recommend)
-- Ichiran Ramen (Hakata ramen)
+- torikizoku fukuoka (Izakaya) (jp friend recommend)
+
+### Gion Station
+
+- Maedaya สาขา Riverside Nakasu (Motsunabe) (jp friend recommend,BTS) [https://www.fun-japan.jp/th/articles/12463]
+- Gyukaku Fukuoka (Yakiniku) (jp friend recommend)
+
+### Nanokawa bus stop,Nishitetsu Hirao Station
+
+- Ichiran Ramen สาขาแรก (Ichiran Nanokawa Store) (Hakata ramen) [https://www.google.com/maps/place/Ichiran+Nanokawa+Store/@33.5751189,130.4129757,17z/data=!4m5!3m4!1s0x0:0x3b2a5a267548f881!8m2!3d33.5748296!4d130.4124729?cid=4263319118482569345&shorturl=1]
+
+### Nakasu-Kawabata Subway Station (Exit 2),the Nishitetsu Tenjin Omuta line Fukuoka (Tenjin) station
+
+- Ichiran Ramen สาขารถเข็น (Ichiran) (Hakata ramen) [https://www.google.com/maps/place/Ichiran/@33.5932405,130.4045974,15z/data=!4m5!3m4!1s0x0:0x686cca1ac34ca0bb!8m2!3d33.5932405!4d130.4045974?shorturl=1]
+
+### Tenjin Subway Station,Tenjin ( Nishitetsu Fukuoka Omuta Line)
+
+- Ichiran Ramen สาขาชาม 4 เหลี่ม (Ichiran Tenjin Nishidori) (Hakata ramen) [https://www.google.com/maps/place/Ichiran+Tenjin+Nishidori/@33.5886501,130.3958232,20z/data=!4m6!3m5!1s0x35419185fa948f31:0x5b30b2fbd510e493!8m2!3d33.5888763!4d130.3962161!16s%2Fg%2F12xqx5czd]
+- Fujiya Daimyo(Yakinuku,beer) [https://chillchilljapan.com/5-valuable-yakiniku-buffet-in-fukuoka/]
+
+### Nakasukawabata Station
+
 - Tetsunabe Gyoza
 - Tempura Hirao
 - Ganso Hakata Mentaiju
 - Fujiken Nakasu (jp friend recommend)
-- Daimyo Hete (jp friend recommend)
-- Matsusuke Nishinakasu (jp friend recommend) [https://www.tripadvisor.com/Restaurant_Review-g14127491-d9613743-Reviews-Matsusuke_Nishinakasu-Chuo_Fukuoka_Fukuoka_Prefecture_Kyushu.html]
-- torikizoku fukuoka (Yakitori) (jp friend recommend)
-- Gyukaku Fukuoka (Yakiniku) (jp friend recommend)
+- Matsusuke Nishinakasu (jp friend recommend) (Izakaya) [https://www.tripadvisor.com/Restaurant_Review-g14127491-d9613743-Reviews-Matsusuke_Nishinakasu-Chuo_Fukuoka_Fukuoka_Prefecture_Kyushu.html]
+- Gyukaku Fukuoka สาขา Nakasu (Yakiniku) (jp friend recommend)
+
+### Akasaka Station
+
+- Daimyo Hete (jp friend recommend) (Izakaya)
 - Daimyo soft cream
-- Fujiya Daimyo(Yakinuku,beer) [https://chillchilljapan.com/5-valuable-yakiniku-buffet-in-fukuoka/]
+- Fujiya Daimyo (Yakiniku,beer)
+
 - Fukuoka Hakata Yatai (Yatai mura) [https://kiji.life/hakata-yatai/]
 - Isomaru Suisan (Izakaya)
 
@@ -89,6 +116,10 @@
 6. ZONK Hakata
 
 ## `recommended foods & cafe`
+
+### Dazaifu Station
+
+- Ichiran Ramen สาขาชาม 5 เหลี่ยม (Ichiran Dazaifu Sando) (Hakata ramen)[https://www.google.com/maps/place/Ichiran+Dazaifu+Sando/@33.5187236,130.5308375,17z/data=!4m6!3m5!1s0x35419ba2ed157ce9:0x10e3410a156b881b!8m2!3d33.5190706!4d130.5316571!16s%2Fg%2F1ptx_tt47?hl=en]
 
 - Umegae Mochi(Dazaifu Tenmangu,Yasutake)
 
