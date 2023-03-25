@@ -221,18 +221,59 @@
 
 ## `itinerary (stay around Hakata Station)`
 
-1. เดินทางกลับไปที่ Fukuoka
-   - Oita Station -> Hakata Station
-   - เอากระเป๋าไปฝากที่โรงแรม FFFFFF Hotel
-2. กินข้าวเที่ยง
-3. หาที่เที่ยวใน Fukuoka
-4. หาข้าวเย็นกิน
-   - Nakasu (Famous Yatai) (?)
-   - Yakiniku & Beer (?)
-   - Izakaya
-   - หาร้านเพิ่ม `****`
+### plan 1 [https://www.youtube.com/watch?v=8H8EPVy1JQI&t=509s]
+
+1. Yanagawa City
+   - เดินเที่ยวชมเมือง หรือ เช่าจักรยานขี่ชมเมือง
+   - นั่งเรือ donkobune (เวนิซ ฟุกุโอกะ)
+   - ชมพิพิธภัณฑ์ Tachibana Museum Yanagawa (Yanagawa Tachibana-tei OHANA)
+   - Yanagawa Castle Ruins
+   - กินข้าวหน้าปลาไหลที่ร้าน Unagi Daito (มีบริการนั่งเรือด้วย)[https://www.google.com/maps/place/%E5%B7%9D%E4%B8%8B%E3%82%8A%EF%BC%86%E3%81%86%E3%81%AA%E3%81%8E%E3%81%AE%E5%A4%A7%E6%9D%B1%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA/@33.1596308,130.3962263,17z/data=!3m1!4b1!4m5!3m4!1s0x35404cae597a18d3:0x525f35f21473487!8m2!3d33.1596308!4d130.398415?shorturl=1]
+   - Yame Central Tea Garden [มายากอยู่บนเขา ต้องแท็กซี่ ไม่มีรถประจำทาง]
+
+### plan 2 [https://www.youtube.com/watch?v=N0Is9Bo5ATA]
+
+1. Ukiha Inari Shrine[https://www.google.com/maps/place/Ukiha+Inari+Shrine/@33.3230078,130.7917393,17z/data=!3m1!4b1!4m6!3m5!1s0x354172a5d64a681f:0x218dbd88e3de8c68!8m2!3d33.3230078!4d130.7917393!16s%2Fg%2F11g_k6sgk?hl=en-JP]
+
+### plan 3 [https://www.youtube.com/watch?v=esUZVirX1cw&t=1s]
+
+1. Migita Orchard (เก็บ strawberry) [https://www.google.com/maps/place/Migita+Orchard/@33.323286,130.6758993,17z/data=!4m5!3m4!1s0x35410b0179fec355:0xed303389573e9579!8m2!3d33.3232809!4d130.6780879?shorturl=1]
+2. Akizuki Castle Ruins [https://www.google.com/maps/place/Akizuki+Castle+Ruins/@33.4658556,130.6953798,15z/data=!4m5!3m4!1s0x0:0x3213ae6443d49f97!8m2!3d33.4658556!4d130.6953798?sa=X&ved=2ahUKEwj-2Ij03uD2AhVPklYBHf91DYIQ_BJ6BAgVEAU&shorturl=1]
+3. กินข้าว Irorigura Akizuki [https://www.google.com/maps/place/%E6%A2%9F%E3%81%AE%E9%9F%BF%E3%82%AD+%E7%A7%8B%E6%9C%88%E3%81%84%E3%82%8D%E3%82%8A%E8%94%B5/@33.469863,130.6916113,17z/data=!3m1!4b1!4m6!3m5!1s0x35417778ebd7f831:0x852eb5409bd9be82!8m2!3d33.469863!4d130.6916113!16s%2Fg%2F11pr1yfhgs]
+
+### plan 4 [https://www.youtube.com/watch?v=9XuNj3nLmL8&t=1s]
+
+1. Nyoirinji Temple [https://www.google.com/maps/place/Nyoirinji/@33.4718778,130.3526266,10z/data=!4m6!3m5!1s0x35419f3b4710e3d7:0xc3706161d2b9f04b!8m2!3d33.4274336!4d130.5672972!16s%2Fg%2F1hc0g6fh8]
+
+### plan 5 [https://www.youtube.com/watch?v=co1M9qMHNdI&t=1s]
+
+1. Kamado Shrine(ดาบพิฆาตอสูร) [https://www.google.com/maps/place/Kamado+Shrine/@33.5288406,130.5500368,17z/data=!4m5!3m4!1s0x35419b62bebd8eff:0x1680bb62fa4ab75b!8m2!3d33.5288406!4d130.5522255?shorturl=1]
+2. ข้าวหน้าไก่ย่าง Torimabushi [https://www.google.com/maps/place/Torimabushi/@33.5935021,130.4043851,15z/data=!4m5!3m4!1s0x0:0x28d4c33056eac896!8m2!3d33.5935021!4d130.4043851?shorturl=1]
+
+### plan 6 [https://www.youtube.com/watch?v=EFjvjAu3gjg&t=1s]
+
+1.  Nokonoshima Island
+
+2.  เดินทางกลับไปที่ Fukuoka
+    - Oita Station -> Hakata Station
+    - เอากระเป๋าไปฝากที่โรงแรม FFFFFF Hotel
+3.  กินข้าวเที่ยง
+4.  หาที่เที่ยวใน Fukuoka
+5.  หาข้าวเย็นกิน
+    - Nakasu (Famous Yatai) (?)
+    - Yakiniku & Beer (?)
+    - Izakaya
+    - หาร้านเพิ่ม `****`
 
 ## `recommended foods & cafe`
+
+### Yanagawa
+
+- Ganso Motoyoshiya [https://www.google.com/maps/place/Ganso+Motoyoshiya/@33.1679652,130.4088748,17z/data=!3m1!4b1!4m6!3m5!1s0x3541b3362b175115:0x8c941a222339ff18!8m2!3d33.1679607!4d130.4110635!16s%2Fg%2F1tdnhxnp]
+- Wakamatsuya [https://www.google.com/maps/place/Wakamatsuya/@33.1584849,130.395335,19.5z/data=!4m10!1m2!2m1!1sKabayaki+yanagawa!3m6!1s0x35404ddf33601efd:0x17ee1e48e4678e64!8m2!3d33.1584473!4d130.396061!15sChFLYWJheWFraSB5YW5hZ2F3YVoTIhFrYWJheWFraSB5YW5hZ2F3YZIBEHVuYWdpX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F1tlwcdz9]
+- Kawayoshi [https://www.google.com/maps/place/Kawayoshi+(Steamed+%26+Grilled+Eel)/@33.1636075,130.4120523,17z/data=!3m1!4b1!4m6!3m5!1s0x3541b3343bd43b5b:0xd1b00e6b7f328af3!8m2!3d33.163603!4d130.414241!16s%2Fg%2F1tptndbc]
+- Unagi no Tomisan [https://www.google.com/maps/place/%E3%81%86%E3%81%AA%E3%81%8E%E3%81%AE%E5%86%A8%E3%81%95%E3%82%93/@33.1584278,130.3869551,16z/data=!4m10!1m2!2m1!1sUnagi+no+Tomisan!3m6!1s0x3541b3360138dadf:0x84af64a9ac924763!8m2!3d33.1658902!4d130.4110603!15sChBVbmFnaSBubyBUb21pc2FuWhIiEHVuYWdpIG5vIHRvbWlzYW6SARB1bmFnaV9yZXN0YXVyYW504AEA!16s%2Fg%2F1tlcyzhz]
+- Saraya Fukuryu [https://www.google.com/maps/place/Saraya+Fukuryu/@33.1584323,130.3935211,17z/data=!3m1!4b1!4m6!3m5!1s0x35404caf4d03c6e7:0x2924914107a21954!8m2!3d33.1584278!4d130.3957098!16s%2Fg%2F1vl5dk3x]
 
 # `Day 6 (2 april 2023)`
 
@@ -288,6 +329,7 @@
 - https://th.readme.me/p/34157 [Yufuin เมืองเล็กในหุบเขา ที่เราไม่เคยลืม]
 - https://fromjapan.info/th/prefecture-fukuoka/ [รวม 15 ที่เที่ยวใน ‘จังหวัดฟุกุโอกะ’ ที่ต้องไปให้ได้สักครั้ง!]
 - https://roijang.com/%E0%B8%9F%E0%B8%B8%E0%B8%81%E0%B8%B8%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7/ [20 ฟุกุโอกะที่เที่ยว 2023 ที่เที่ยวญี่ปุ่น [มีนาคม 2023]]
+- https://jatrabridge.com/2020/10/12/6956/ [5 Unagi Restaurants in Yanagawa, Fukuoka Where You Can Eat “Excellent Eel”!]
 
 # `Attractions`
 
