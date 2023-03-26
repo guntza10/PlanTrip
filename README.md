@@ -2,8 +2,8 @@
 
 # `Essential`
 
-- Visit Japan Web (`clear`)
-- JR North Kyushu 5 days
+- Visit Japan Web (`clear`) => qr code ตม,qr code กงศุล
+- JR North Kyushu 3 days (`clear`)
 - SUGOCA card
 
 # `Day 1 (28 march 2023)`
@@ -221,9 +221,10 @@
 
 ## `itinerary (stay around Hakata Station)`
 
-### plan 1 [https://www.youtube.com/watch?v=8H8EPVy1JQI&t=509s]
+### plan 1 [https://www.youtube.com/watch?v=8H8EPVy1JQI&t=509s] [https://www.youtube.com/watch?v=N0Is9Bo5ATA]
 
 1. Yanagawa City
+
    - เดินเที่ยวชมเมือง หรือ เช่าจักรยานขี่ชมเมือง
    - นั่งเรือ donkobune (เวนิซ ฟุกุโอกะ)
    - ชมพิพิธภัณฑ์ Tachibana Museum Yanagawa (Yanagawa Tachibana-tei OHANA)
@@ -231,35 +232,36 @@
    - กินข้าวหน้าปลาไหลที่ร้าน Unagi Daito (มีบริการนั่งเรือด้วย)[https://www.google.com/maps/place/%E5%B7%9D%E4%B8%8B%E3%82%8A%EF%BC%86%E3%81%86%E3%81%AA%E3%81%8E%E3%81%AE%E5%A4%A7%E6%9D%B1%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA/@33.1596308,130.3962263,17z/data=!3m1!4b1!4m5!3m4!1s0x35404cae597a18d3:0x525f35f21473487!8m2!3d33.1596308!4d130.398415?shorturl=1]
    - Yame Central Tea Garden [มายากอยู่บนเขา ต้องแท็กซี่ ไม่มีรถประจำทาง]
 
-### plan 2 [https://www.youtube.com/watch?v=N0Is9Bo5ATA]
+2. Ukiha Inari Shrine[https://www.google.com/maps/place/Ukiha+Inari+Shrine/@33.3230078,130.7917393,17z/data=!3m1!4b1!4m6!3m5!1s0x354172a5d64a681f:0x218dbd88e3de8c68!8m2!3d33.3230078!4d130.7917393!16s%2Fg%2F11g_k6sgk?hl=en-JP]
 
-1. Ukiha Inari Shrine[https://www.google.com/maps/place/Ukiha+Inari+Shrine/@33.3230078,130.7917393,17z/data=!3m1!4b1!4m6!3m5!1s0x354172a5d64a681f:0x218dbd88e3de8c68!8m2!3d33.3230078!4d130.7917393!16s%2Fg%2F11g_k6sgk?hl=en-JP]
-
-### plan 3 [https://www.youtube.com/watch?v=esUZVirX1cw&t=1s]
+### plan 2 [https://www.youtube.com/watch?v=esUZVirX1cw&t=1s] [https://www.youtube.com/watch?v=9XuNj3nLmL8&t=1s] [https://www.youtube.com/watch?v=co1M9qMHNdI&t=1s]
 
 1. Migita Orchard (เก็บ strawberry) [https://www.google.com/maps/place/Migita+Orchard/@33.323286,130.6758993,17z/data=!4m5!3m4!1s0x35410b0179fec355:0xed303389573e9579!8m2!3d33.3232809!4d130.6780879?shorturl=1]
 2. Akizuki Castle Ruins [https://www.google.com/maps/place/Akizuki+Castle+Ruins/@33.4658556,130.6953798,15z/data=!4m5!3m4!1s0x0:0x3213ae6443d49f97!8m2!3d33.4658556!4d130.6953798?sa=X&ved=2ahUKEwj-2Ij03uD2AhVPklYBHf91DYIQ_BJ6BAgVEAU&shorturl=1]
 3. กินข้าว Irorigura Akizuki [https://www.google.com/maps/place/%E6%A2%9F%E3%81%AE%E9%9F%BF%E3%82%AD+%E7%A7%8B%E6%9C%88%E3%81%84%E3%82%8D%E3%82%8A%E8%94%B5/@33.469863,130.6916113,17z/data=!3m1!4b1!4m6!3m5!1s0x35417778ebd7f831:0x852eb5409bd9be82!8m2!3d33.469863!4d130.6916113!16s%2Fg%2F11pr1yfhgs]
+4. Nyoirinji Temple [https://www.google.com/maps/place/Nyoirinji/@33.4718778,130.3526266,10z/data=!4m6!3m5!1s0x35419f3b4710e3d7:0xc3706161d2b9f04b!8m2!3d33.4274336!4d130.5672972!16s%2Fg%2F1hc0g6fh8]
+5. Kamado Shrine(ดาบพิฆาตอสูร) [https://www.google.com/maps/place/Kamado+Shrine/@33.5288406,130.5500368,17z/data=!4m5!3m4!1s0x35419b62bebd8eff:0x1680bb62fa4ab75b!8m2!3d33.5288406!4d130.5522255?shorturl=1]
+6. ข้าวหน้าไก่ย่าง Torimabushi [https://www.google.com/maps/place/Torimabushi/@33.5935021,130.4043851,15z/data=!4m5!3m4!1s0x0:0x28d4c33056eac896!8m2!3d33.5935021!4d130.4043851?shorturl=1]
 
-### plan 4 [https://www.youtube.com/watch?v=9XuNj3nLmL8&t=1s]
-
-1. Nyoirinji Temple [https://www.google.com/maps/place/Nyoirinji/@33.4718778,130.3526266,10z/data=!4m6!3m5!1s0x35419f3b4710e3d7:0xc3706161d2b9f04b!8m2!3d33.4274336!4d130.5672972!16s%2Fg%2F1hc0g6fh8]
-
-### plan 5 [https://www.youtube.com/watch?v=co1M9qMHNdI&t=1s]
-
-1. Kamado Shrine(ดาบพิฆาตอสูร) [https://www.google.com/maps/place/Kamado+Shrine/@33.5288406,130.5500368,17z/data=!4m5!3m4!1s0x35419b62bebd8eff:0x1680bb62fa4ab75b!8m2!3d33.5288406!4d130.5522255?shorturl=1]
-2. ข้าวหน้าไก่ย่าง Torimabushi [https://www.google.com/maps/place/Torimabushi/@33.5935021,130.4043851,15z/data=!4m5!3m4!1s0x0:0x28d4c33056eac896!8m2!3d33.5935021!4d130.4043851?shorturl=1]
-
-### plan 6 [https://www.youtube.com/watch?v=EFjvjAu3gjg&t=1s]
+### plan 6 [https://www.youtube.com/watch?v=EFjvjAu3gjg&t=1s] [https://www.youtube.com/watch?v=PJYCYp2XmPQ&t=27s]
 
 1.  Nokonoshima Island
 
-2.  เดินทางกลับไปที่ Fukuoka
+    - Nokoshima Island Park [https://www.google.com/maps/place/Nokonoshima+Island+Park/@33.6295257,130.3010692,16.36z/data=!4m5!3m4!1s0x3541ed371fb9ab13:0xcd94e15b70f3da13!8m2!3d33.631347!4d130.3017019?shorturl=1]
+
+2.  Maizuru Park (Fukuoka Castle ruin) [https://www.google.com/maps/place/Maizuru+Park+-+Sannomaru+Plaza/@33.5880402,130.37674,16.52z/data=!4m5!3m4!1s0x3541922d85d2d0e3:0x580fc69be22b98bc!8m2!3d33.5881461!4d130.3796858?coh=164777&entry=tt&shorturl=1]
+3.  Nishi Park [https://www.google.com/maps/place/Nishi+Park/@33.5980974,130.3719506,15z/data=!4m6!3m5!1s0x3541923a20b4dd35:0x19bb4a0095cb7b4a!8m2!3d33.5980752!4d130.3753109!16s%2Fg%2F121y4_d7]
+4.  Terumo Shrine [https://www.google.com/maps/place/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%AD%E0%B8%B8%E0%B8%99/@33.5972871,130.3743317,17z/data=!3m1!4b1!4m6!3m5!1s0x3541923a734fdc19:0xd414344b1de6ae19!8m2!3d33.5972827!4d130.3765204!16s%2Fg%2F122vl48x]
+5.  Lalaport fukuoka [https://www.google.com/maps/place/Gundam+Park+Fukuoka/@33.5650059,130.4414037,17z/data=!3m2!4b1!5s0x35419057a60ac58d:0xa399b820d4dcbaca!4m6!3m5!1s0x354191e00a3122bd:0x27829a54cdef646d!8m2!3d33.5650059!4d130.4414037!16s%2Fg%2F11q9l4s6x0]
+
+### main plan
+
+1.  เดินทางกลับไปที่ Fukuoka
     - Oita Station -> Hakata Station
     - เอากระเป๋าไปฝากที่โรงแรม FFFFFF Hotel
-3.  กินข้าวเที่ยง
-4.  หาที่เที่ยวใน Fukuoka
-5.  หาข้าวเย็นกิน
+2.  กินข้าวเที่ยง
+3.  หาที่เที่ยวใน Fukuoka
+4.  หาข้าวเย็นกิน
     - Nakasu (Famous Yatai) (?)
     - Yakiniku & Beer (?)
     - Izakaya
