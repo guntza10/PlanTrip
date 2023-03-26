@@ -36,6 +36,7 @@
    - Nakasu (Famous Yatai) (?)
    - Yakiniku & Beer (?)
    - Izakaya
+   - กิน Fujiya Daimyo
 10. ZONK Hakata
     - Gion Station -> Hakata Station
 
